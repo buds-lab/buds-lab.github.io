@@ -6,11 +6,12 @@ layout: default
 
 ![BUDS](buds-lab.github.io/nus.png)
 
+![NUS](buds-lab.github.io/nus.png)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+<!-- <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
+  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/> -->
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+<!-- Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
 ## Solo is useful if...
 
@@ -61,6 +62,6 @@ Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/c
 
 ### License
 
-[MIT License](http://chibicode.mit-license.org/)
+[MIT License](http://chibicode.mit-license.org/) -->
 
 
