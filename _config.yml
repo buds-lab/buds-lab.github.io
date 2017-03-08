@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: BUDS Lab
+tag_text: budslab
+description: BUDS Lab is a new research group at the National University of Singapore that focuses on leveraging data sources from the built environment to improve energy efficiency conservation, comfort, safety and satisfaction of humans.
 
 # Build settings
 markdown: kramdown

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[BUDS Lab](http://budslab.org/) is a new research group at the National University of Singapore that focuses in leverage data sources from the built environment and make the world a better place.
+[BUDS Lab](http://budslab.org/) is a new research group at the National University of Singapore that focuses on leveraging data sources from the built environment to improve energy efficiency conservation, comfort, safety and satisfaction of humans.
 
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
+![BUDS](buds-lab.github.io/nus.png)
 
 
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
