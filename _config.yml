@@ -7,4 +7,4 @@ description: BUDS Lab is a new research group at the National University of Sing
 markdown: kramdown
 exclude: ["README.md"]
 sass:
-  style: compressed
+  style: expanded
