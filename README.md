@@ -1,5 +1,5 @@
-# Solo 
+# BUDS LAB - Building and Urban Data Science at the National University of Singapore
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+[BUDS Lab](http://budslab.org/) is a new research group at the National University of Singapore that focuses in leverage data sources from the built environment and make the world a better place.
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+
