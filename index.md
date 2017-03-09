@@ -24,7 +24,7 @@ BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:tar
 ## Publications
 All current and in-progress publications found on [ResearchGate](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} and [Google Scholar](https://scholar.google.com.sg/citations?user=akL857IAAAAJ&hl=en){:target="_blank"}
 
-## Join BUDS Lab!
+## Join the BUDS Lab!
 Do any (or all) of these situations describe you?
 * You're an **architect, mechanical or electrical engineer, energy simulator, urban planner, or any other type of building industry professional** who has an intense curiosity in how huge amounts of temporal, spatial, and meta data about buildings and cities will change the way we design, operate, and inhabit these entities. You've gotten tired of using spreadsheets, and have started using scripting languages such as [Python](https://www.python.org/){:target="_blank"} or [R](https://www.r-project.org/){:target="_blank"} to process larger amounts of sensor or spatial data from buildings or building information models. You want to learn more about *data science and informatics*
 * You're a **data scientist, statistician, programmer, or electronics engineer** who has a strong curiosity in how IoT, web technologies, and visual analytics can be applied to buildings and cities. You've used [particle cores](https://www.particle.io/){:target="_blank"} to design your own indoor environmental sensor device and dashboard and are annoying your colleagues about how much you know about indoor air quality. *You want to learn more about buildings and cities.* 
