@@ -8,10 +8,18 @@ Welcome to [BUDS Lab](http://budslab.org/)! We are a scientific research group t
 
 ![NUS](buds-lab.github.io/nus.png)
 
-We are a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} at the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
+BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} at the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
+
+## Projects
+
+Some initial and ongoing projects:
+
+* [Building Data Genome Project](https://github.com/buds-lab/the-building-data-genome){:target="_blank"}([ResearchGate](https://www.researchgate.net/project/Building-Data-Genome-Project){:target="_blank"}) -- A open data set of 507 buildings from around the world with various temporal data mining techniques implemented
+* [Data-Driven Buildings](http://www.datadrivenbuilding.org/){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Data-Driven-Buildings){:target="_blank"}) -- Tutorials for building performance analysts 
+* [3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://www.systems.arch.ethz.ch/research/3for2-beyond-efficiency.html){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/3for2-Buildings-Achieving-Material-Energy-Space-Efficiency){:target="_blank"}) -- Collaboration with [ETH Zurich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration this project builds 3 floors in the space of 2 while achieving 2x the performance.
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/> -->
+  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/> 
 
 <!-- Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
