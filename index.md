@@ -4,11 +4,11 @@ layout: default
 
 ![BUDS](buds-lab.github.io/budslab_banner.png)
 
-[BUDS Lab](http://budslab.org/) focuses on leveraging data sources from the built and urban environments to improve the energy efficiency/conservation, comfort, safety and satisfaction of humans.
+Welcome to [BUDS Lab](http://budslab.org/)! We are a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency/conservation, comfort, safety and satisfaction of humans.
 
 ![NUS](buds-lab.github.io/nus.png)
 
-We are a new research group in the School of Design and Environment at the National University of Singapore.
+We are a new group in the [School of Design and Environment](http://www.sde.nus.edu.sg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg/). [NUS is ranked in the top 15 of world universities and is #1 in Asia.](http://www.nus.edu.sg/global/rankings.html)
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/> -->
