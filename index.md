@@ -8,7 +8,7 @@ Welcome to [BUDS Lab](http://budslab.org/)! We are a scientific research group t
 
 ![NUS](buds-lab.github.io/nus.png)
 
-We are a new group in the [School of Design and Environment](http://www.sde.nus.edu.sg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg/). [NUS is the #1 university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html)
+We are a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} at the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/> -->
