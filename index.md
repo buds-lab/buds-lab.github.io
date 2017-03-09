@@ -18,7 +18,7 @@ BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:tar
 
 ## People
 ![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
-[Dr. Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} will be an Asst. Professor at NUS starting in June 2017. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore.
+[Dr. Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} will be an Asst. Professor at NUS starting in June 2017. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore. He holds a MSc. (Building) from the National University of Singapore (NUS) and a Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska - Lincoln (UNL). He is a former Fulbright Student Scholar to Singapore at NUS and a Walter Scott Jr. Scholar at UNL. 
 
 ### Join BUDS Lab!
 Do any (or all) of these situations describe you?
