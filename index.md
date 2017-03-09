@@ -14,7 +14,7 @@ BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:tar
 
 Some initial and ongoing projects:
 
-* [Building Data Genome Project](https://github.com/buds-lab/the-building-data-genome){:target="_blank"}([ResearchGate](https://www.researchgate.net/project/Building-Data-Genome-Project){:target="_blank"}) -- A open data set of 507 buildings from around the world with various temporal data mining techniques implemented
+* [Building Data Genome Project](https://github.com/buds-lab/the-building-data-genome){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Building-Data-Genome-Project){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of 507 buildings from around the world with various temporal data mining techniques implemented
 * [Data-Driven Buildings](http://www.datadrivenbuilding.org/){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Data-Driven-Buildings){:target="_blank"}) -- Tutorials for building performance analysts 
 * [3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://www.systems.arch.ethz.ch/research/3for2-beyond-efficiency.html){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/3for2-Buildings-Achieving-Material-Energy-Space-Efficiency){:target="_blank"}) -- Collaboration with [ETH Zurich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration this project builds 3 floors in the space of 2 while achieving 2x the performance.
 
