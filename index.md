@@ -4,7 +4,7 @@ layout: default
 
 ![BUDS](buds-lab.github.io/budslab_banner.png)
 
-Welcome to [BUDS Lab](https://github.com/buds-lab)! We are a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency/conservation, comfort, safety and satisfaction of humans.
+Welcome to [BUDS Lab](https://github.com/buds-lab)! We are a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
@@ -18,7 +18,7 @@ BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:tar
 
 ## People
 ![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
-[Dr. Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} will be an Asst. Professor at NUS starting in June 2017. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore. He holds a MSc. (Building) from the National University of Singapore (NUS) and a Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska - Lincoln (UNL). He is a former Fulbright Student Scholar to Singapore at NUS and a Walter Scott Jr. Scholar at UNL. 
+[Dr. Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} will be an Asst. Professor at NUS starting in June 2017. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore. He holds a MSc. (Building) from the National University of Singapore (NUS) and a Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska - Lincoln (UNL). He is a former [Fulbright Student Scholar to Singapore](https://fulbrightsg.org/){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](https://scottscholaralumni.wordpress.com/){:target="_blank"} at UNL. 
 
 ### Join BUDS Lab!
 Do any (or all) of these situations describe you?
