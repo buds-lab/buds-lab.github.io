@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![BUDS](buds-lab.github.io/budslab.png)
+![BUDS](buds-lab.github.io/budslab_banner.png)
 
 [BUDS Lab](http://budslab.org/) focuses on leveraging data sources from the built and urban environments to improve the energy efficiency/conservation, comfort, safety and satisfaction of humans.
 
