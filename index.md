@@ -6,7 +6,7 @@ layout: default
 
 [BUDS Lab](https://github.com/buds-lab){:target="_blank"} is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
-[Follow us on Twitter](https://twitter.com/buds_lab){:target="_blank"} or [GitHub](https://github.com/buds-lab){:target="_blank"}
+Check us out on [Twitter](https://twitter.com/buds_lab){:target="_blank"} and [GitHub](https://github.com/buds-lab){:target="_blank"}
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
