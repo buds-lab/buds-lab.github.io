@@ -4,7 +4,7 @@ layout: default
 
 ![BUDS](buds-lab.github.io/budslab_banner.png)
 
-[BUDS Lab](https://github.com/buds-lab){:target="_blank"}! is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
+[BUDS Lab](https://github.com/buds-lab){:target="_blank"} is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
@@ -19,7 +19,7 @@ BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:tar
 ## People
 ![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
 <br>
-[Dr. Clayton Miller](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} will be an Asst. Professor at NUS starting in June 2017 in the BUDS Lab. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore. He holds a MSc. (Building) from the National University of Singapore (NUS) and a [Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska - Lincoln (UNL)](http://engineering.unl.edu/durhamschool/){:target="_blank"}. He is a former [Fulbright Student Scholar to Singapore](https://fulbrightsg.org/){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](https://scottscholaralumni.wordpress.com/){:target="_blank"} at UNL. 
+Dr. Clayton Miller ([ResearchGate](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"}) will be an Asst. Professor at NUS starting in June 2017 in the BUDS Lab. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore. He holds a MSc. (Building) from the National University of Singapore (NUS) and a [Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska - Lincoln (UNL)](http://engineering.unl.edu/durhamschool/){:target="_blank"}. He is a former [Fulbright Student Scholar to Singapore](https://fulbrightsg.org/){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](https://scottscholaralumni.wordpress.com/){:target="_blank"} at UNL. 
 
 ## Publications
 All current and in-progress publications found on [ResearchGate](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} and [Google Scholar](https://scholar.google.com.sg/citations?user=akL857IAAAAJ&hl=en){:target="_blank"}
