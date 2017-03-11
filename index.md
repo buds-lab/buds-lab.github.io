@@ -6,9 +6,11 @@ layout: default
 
 [BUDS Lab](https://github.com/buds-lab){:target="_blank"} is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
+[Follow us on Twitter](https://twitter.com/buds_lab){:target="_blank"} or [GitHub](https://github.com/buds-lab){:target="_blank"}
+
 ![BUDS lab](buds-lab.github.io/nus.png)
 
-BUDS Lab a new group in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} at the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
+BUDS Lab is in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} at the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 15 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
 
 ## Projects
 * [Building Data Genome Project](https://github.com/buds-lab/the-building-data-genome){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Building-Data-Genome-Project){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
