@@ -4,28 +4,28 @@ layout: default
 
 ![BUDS](buds-lab.github.io/budslab_banner.png)
 
-[BUDS Lab](https://github.com/buds-lab){:target="_blank"} is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
+BUDS Lab is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
-Check us out on [Twitter](https://twitter.com/buds_lab){:target="_blank"} and [GitHub](https://github.com/buds-lab){:target="_blank"} and [subscribe to the email list](http://eepurl.com/cF19yT){:target="_blank"}
+Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](http://bit.ly/2mfifkR){:target="_blank"} and [subscribe to the email list](http://bit.ly/2mPhWAH){:target="_blank"}
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
-BUDS Lab is in the [Dept. of Building](http://www.bdg.nus.edu.sg/){:target="_blank"} in the [School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](http://www.nus.edu.sg/global/rankings.html){:target="_blank"}
+BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
 
 ## Projects
-* [Building Data Genome Project](https://github.com/buds-lab/the-building-data-genome){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Building-Data-Genome-Project){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
-* [Data-Driven Buildings](http://www.datadrivenbuilding.org/){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Data-Driven-Buildings){:target="_blank"}) -- Tutorials for building performance analysts 
-* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://www.systems.arch.ethz.ch/research/3for2-beyond-efficiency.html){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/3for2-Buildings-Achieving-Material-Energy-Space-Efficiency){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
-* [Systems THINKING](http://www.systh.ink/){:target="_blank"} -- An international research and design collective focused on enhancing buildings through better architectural and engineering solutions related to building systems.
+* [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
+* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- Tutorials for building performance analysts 
+* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2nsunPS){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
+* [Systems THINKING](http://bit.ly/2nimixM){:target="_blank"} -- An international research and design collective focused on enhancing buildings through better architectural and engineering solutions related to building systems.
 
 ## People
 ![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
 <br>
-Dr. Clayton Miller ([ResearchGate](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"})([GitHub](https://github.com/cmiller8){:target="_blank"}) will be an Asst. Professor at NUS starting in June 2017 in the BUDS Lab. He is currently a Post-Doc at the [Future Cities Lab](http://www.fcl.ethz.ch/){:target="_blank"} with the 3for2 Project. He holds a Doctor of Sciences from the [ETH Z&uuml;rich](https://www.ethz.ch/en.html){:target="_blank"}, a MSc. (Building) from the [National University of Singapore (NUS)](http://www.nus.edu.sg/){:target="_blank"}, and a [Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska](http://engineering.unl.edu/durhamschool/){:target="_blank"}. He is a former [Fulbright Student Scholar to Singapore](https://fulbrightsg.org/){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](https://scottscholaralumni.wordpress.com/){:target="_blank"} at UNL. 
+Dr. Clayton Miller ([ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"})([LinkedIn](http://bit.ly/2ncAV9h){:target="_blank"})([GitHub](http://bit.ly/2nsvUoS){:target="_blank"}) will be an Asst. Professor at NUS starting in June 2017 in the BUDS Lab. He is currently a Post-Doc at the [Future Cities Lab](http://bit.ly/2mWFJih){:target="_blank"} with the 3for2 Project. He holds a Doctor of Sciences from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"}, a MSc. (Building) from the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}, and a [Masters of Architectural Engineering (MAE) and BSc. from the University of Nebraska](http://bit.ly/2mzLhhS){:target="_blank"}. He is a former [Fulbright Student Scholar to Singapore](http://bit.ly/2mfcUKy){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](http://bit.ly/2mPcei3){:target="_blank"} at UNL. 
 <!-- He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up in Singapore.  -->
 
 ## Publications
-All current and in-progress publications found on [ResearchGate](https://www.researchgate.net/profile/Clayton_Miller2){:target="_blank"} and [Google Scholar](https://scholar.google.com.sg/citations?user=akL857IAAAAJ&hl=en){:target="_blank"}
+All current and in-progress publications found on [ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"} and [Google Scholar](http://bit.ly/2mzJM35){:target="_blank"}
 
 ## Join the BUDS Lab!
 Do any (or all) of these situations describe you?
@@ -44,7 +44,7 @@ If so, please contact Dr. Miller via email ([miller.clayton at gmail.com](mailto
 
 **More detailed job descriptions for Ph.D. and Post-Doctoral positions to be posted shortly!**
 
-[Leadership Lessons from a Dancing Guy](https://sivers.org/ff){:target="_blank"}
+[Leadership Lessons from a Dancing Guy](http://bit.ly/2mzHS2I){:target="_blank"}
 
 &copy; 2017 BUDS Lab
 
