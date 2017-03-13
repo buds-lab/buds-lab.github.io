@@ -40,7 +40,7 @@ Do any (or all) of these situations describe you?
 <!-- * You're very curious about other cultures and the concept of living and working in one of the **world's most diverse and culturally rich Asian cities**.  -->
 <!-- *You want to learn more about Asia.* -->
 
-If so, please contact Dr. Miller via email ([miller.clayton at gmail.com](mailto:miller.clayton@gmail.com)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points is desirable.
+If so, please contact Dr. Miller via email ([miller.clayton at gmail.com](mailto:miller.clayton@gmail.com)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points are desirable.
 
 **More detailed job descriptions for Ph.D. and Post-Doctoral positions to be posted shortly!**
 
