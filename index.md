@@ -15,7 +15,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ## Projects
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
 * [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- Tutorials for building performance analysts 
-* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2nsunPS){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
+* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
 * [Systems THINKING](http://bit.ly/2nimixM){:target="_blank"} -- An international research and design collective focused on enhancing buildings through better architectural and engineering solutions related to building systems.
 
 ## People
@@ -40,7 +40,7 @@ Do any (or all) of these situations describe you?
 <!-- * You're very curious about other cultures and the concept of living and working in one of the **world's most diverse and culturally rich Asian cities**.  -->
 <!-- *You want to learn more about Asia.* -->
 
-If so, please contact Dr. Miller via email ([miller.clayton at gmail.com](mailto:miller.clayton@gmail.com)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points are desirable.
+If so, please ([contact Dr. Clayton via email](mailto:clayton@nus.edu.sg)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points are desirable.
 
 **More detailed job descriptions for Ph.D. and Post-Doctoral positions to be posted shortly!**
 
