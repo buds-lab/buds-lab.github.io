@@ -48,6 +48,8 @@ If so, please ([contact Dr. Clayton via email](mailto:clayton@nus.edu.sg)) to di
 
 &copy; 2017 BUDS Lab
 
+Website design forked from [Solo Jekyll theme](https://chibicode.github.io/solo/){:target="_blank"} and hosted on [Github Pages](https://pages.github.com/){:target="_blank"}
+
 
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
