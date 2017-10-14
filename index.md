@@ -13,11 +13,18 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](
 BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
 
 ## Projects
+![IoT at NUS](buds-lab.github.io/iotatnus.png)
+* [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"}) -- An NUS Project with Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. So far, this project has focused on the development of deployable sensor kits that measure the electrical performance of common commercial building loads in addition to measuring the factors that influence human comfort and wellness. 
+
 ![Building Data Genome Project](buds-lab.github.io/building_data_genome.png)
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
-* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- Tutorials for building performance analysts 
+
+![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png)
+* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts. The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.
+ 
+![Data-Driven Building](buds-lab.github.io/3for2.png)
 * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
-* [Systems THINKING](http://bit.ly/2nimixM){:target="_blank"} -- An international research and design collective focused on enhancing buildings through better architectural and engineering solutions related to building systems.
+
 
 ## People
 ![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
