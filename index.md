@@ -13,6 +13,7 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](
 BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
 
 ## Projects
+![Building Data Genome Project](buds-lab.github.io/building_data_genome.png)
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
 * [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- Tutorials for building performance analysts 
 * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
