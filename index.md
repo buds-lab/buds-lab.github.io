@@ -51,7 +51,7 @@ Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quin
 Irvin Tang Kaijun ([ResearchGate](https://www.researchgate.net/profile/Irvin_Tang){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/irvintang/){:target="_blank"})([GitHub](https://github.com/irrhuh){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab. He holds a [B.Sc. in Project & Facilities Management, Honours (Merit)](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"} from the NUS Dept. of Building. He is an expert in identifying and documenting construction and operations defects and is working on elegant ways of using deep learning and image recognition to enhance the building industry.
 
 #### Affiliated Researchers
-![Dr. Pandarasamy Arjunan](buds-lab.github.io/samyarjunan.png)
+![Dr. Pandarasamy Arjunan](buds-lab.github.io/samyarjunan.jpeg)
 Dr. Pandarasamy Arjunan ([ResearchGate](https://www.researchgate.net/profile/Pandarasamy_Arjunan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pandarasamy-arjunan-5580a215/){:target="_blank"})([GitHub](https://github.com/HiSamy){:target="_blank"}) is a Post-Doctoral Researcher at the Berkeley Education Alliance for Research in Singapore (BEARS). He holds a Ph.D. in Computer Science from the [IIIT-Delhi](https://iiitd.ac.in/){:target="_blank"}, a Master of Computer Applications (MCA) from the [Madurai Kamraj University](http://mkuniversity.ac.in/new/){:target="_blank"}, and a Bachelor of Science in Computer Science from the [Manonmaniam Sundaranar University](https://www.msuniv.ac.in/){:target="_blank"} in India. Dr. Arjunan is exploring scalable city-scale analytics techniques for benchmarking buildings.
 
 
