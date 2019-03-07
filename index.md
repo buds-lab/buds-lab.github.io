@@ -13,6 +13,9 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](
 BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
 
 ## Projects
+![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/LearningTrail.jpg)
+* [Crowdsourcing Comfort: The Learning Trail](http://learningtrail.budslab.org/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the building.
+
 ![IoT at NUS](buds-lab.github.io/iotatnus.png)
 * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project with Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. So far, this project has focused on the development of deployable sensor kits that measure the electrical performance of common commercial building loads in addition to measuring the factors that influence human comfort and wellness. 
 
