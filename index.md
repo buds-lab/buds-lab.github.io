@@ -55,7 +55,7 @@ Irvin Tang Kaijun ([ResearchGate](https://www.researchgate.net/profile/Irvin_Tan
 
 #### Affiliated Researchers
 ![Dr. Pandarasamy Arjunan](buds-lab.github.io/samyarjunan.jpeg)
-Dr. Pandarasamy Arjunan ([ResearchGate](https://www.researchgate.net/profile/Pandarasamy_Arjunan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pandarasamy-arjunan-5580a215/){:target="_blank"})([GitHub](https://github.com/HiSamy){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"}. He holds a Ph.D. in Computer Science from the [IIIT-Delhi](https://iiitd.ac.in/){:target="_blank"}, a Master of Computer Applications (MCA) from the [Madurai Kamraj University](http://mkuniversity.ac.in/new/){:target="_blank"}, and a Bachelor of Science in Computer Science from the [Manonmaniam Sundaranar University](https://www.msuniv.ac.in/){:target="_blank"} in India. Dr. Arjunan is exploring scalable city-scale analytics techniques for benchmarking buildings.
+Dr. Pandarasamy Arjunan ([ResearchGate](https://www.researchgate.net/profile/Pandarasamy_Arjunan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pandarasamy-arjunan-5580a215/){:target="_blank"})([GitHub](https://github.com/HiSamy){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"} and is focused on City-Scale Analytics with the BUDS Lab and Prof. [Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html){:target="_blank"}. He holds a Ph.D. in Computer Science from the [IIIT-Delhi](https://iiitd.ac.in/){:target="_blank"}, a Master of Computer Applications (MCA) from the [Madurai Kamraj University](http://mkuniversity.ac.in/new/){:target="_blank"}, and a Bachelor of Science in Computer Science from the [Manonmaniam Sundaranar University](https://www.msuniv.ac.in/){:target="_blank"} in India. Dr. Arjunan is exploring scalable city-scale analytics techniques for benchmarking buildings.
 
 
 #### Alumni
@@ -83,7 +83,7 @@ If so, please ([contact Dr. Clayton via email](mailto:clayton@nus.edu.sg)) to di
  -->
 [Leadership Lessons from a Dancing Guy](http://bit.ly/2mzHS2I){:target="_blank"}
 
-&copy; 2017 BUDS Lab
+&copy; 2017-2019 BUDS Lab
 
 Website design forked from [Solo Jekyll theme](https://chibicode.github.io/solo/){:target="_blank"} and hosted on [Github Pages](https://pages.github.com/){:target="_blank"}
 
