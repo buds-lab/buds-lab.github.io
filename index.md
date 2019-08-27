@@ -19,7 +19,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 * [Project BuzzNET](https://www.bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
 
 ![Project Cozie](buds-lab.github.io/cozie.png)
-* [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. The platform is being developed for researchers anywhere in the world to use a a methodology tool.
+* [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. The platform is being developed for researchers anywhere in the world to use a methodological component.
 
 ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png)
 * [Crowdsourcing Comfort: The Learning Trail](http://learningtrail.me/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
