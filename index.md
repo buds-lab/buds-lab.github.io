@@ -15,7 +15,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ## Projects
 
 ![Project BuzzNET](buds-lab.github.io/buzznet.png)
-* [Project BuzzNET](https://www.linkedin.com/in/ananyaajoshi/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
+* [Project BuzzNET](https://www.bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
 
 ![Project Cozie](buds-lab.github.io/cozie.png)
 * [Project Cozie](https://cozie.app/){:target="_blank"} -- An NUS  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters.
