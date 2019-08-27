@@ -13,6 +13,13 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](
 BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
 
 ## Projects
+
+![Project BuzzNET](buds-lab.github.io/buzznet.png)
+* [Project Cozie](https://www.linkedin.com/in/ananyaajoshi/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
+
+![Project Cozie](buds-lab.github.io/cozie.png)
+* [Project Cozie](https://cozie.app/){:target="_blank"} -- An NUS  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters.
+
 ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png)
 * [Crowdsourcing Comfort: The Learning Trail](http://learningtrail.me/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
 
@@ -25,8 +32,12 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png)
 * [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts. The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.
  
-![3for2](buds-lab.github.io/3for2.png)
-* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) -- Collaboration with the [ETH Z&uuml;rich Chair of Architecture and Building Systems](http://www.systems.arch.ethz.ch/){:target="_blank"} -- Through systems integration, this project builds 3 floors in the space of 2 while achieving 2 times the performance.
+
+#### Past Projects
+
+<!-- ![3for2](buds-lab.github.io/3for2.png) -->
+
+* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) 
 
 
 ## People
