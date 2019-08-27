@@ -81,11 +81,11 @@ Dr. Pandarasamy Arjunan ([ResearchGate](https://www.researchgate.net/profile/Pan
 
 
 #### Alumni
-* Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"})
+* Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"}) - Lecturer at [Hanyang University](https://www.hanyang.ac.kr/web/eng){:target="_blank"}
 
-* Dr. Jayashree Chadalawada ([ResearchGate](https://www.researchgate.net/profile/Jayashree_Chadalawada){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jayashree-chadalawada-b241132b/){:target="_blank"})([GitHub](https://github.com/Jayashreerao){:target="_blank"})
+* Dr. Jayashree Chadalawada ([ResearchGate](https://www.researchgate.net/profile/Jayashree_Chadalawada){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jayashree-chadalawada-b241132b/){:target="_blank"})([GitHub](https://github.com/Jayashreerao){:target="_blank"}) - Researcher at [NUS Dept. of Civil Engineering](https://www.eng.nus.edu.sg/cee/){:target="_blank"}
 
-* Tapeesh Sood ([ResearchGate](https://www.researchgate.net/profile/Tapeesh_Sood){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/tapeeshsood/){:target="_blank"})([GitHub](https://github.com/tapeesh){:target="_blank"})
+* Tapeesh Sood ([ResearchGate](https://www.researchgate.net/profile/Tapeesh_Sood){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/tapeeshsood/){:target="_blank"})([GitHub](https://github.com/tapeesh){:target="_blank"}) - Product Manager - Location Based Member Experiences at [WeWork](https://www.wework.com/en-GB){:target="_blank"}
 
 ## Publications
 All current and in-progress publications found on [ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"} and [Google Scholar](http://bit.ly/2mzJM35){:target="_blank"}
