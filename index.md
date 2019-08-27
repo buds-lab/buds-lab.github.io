@@ -18,13 +18,13 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 * [Project BuzzNET](https://www.bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
 
 ![Project Cozie](buds-lab.github.io/cozie.png)
-* [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. 
+* [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. The platform is being developed for researchers anywhere in the world to use a a methodology tool.
 
 ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png)
 * [Crowdsourcing Comfort: The Learning Trail](http://learningtrail.me/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
 
 ![IoT at NUS](buds-lab.github.io/iotatnus.png)
-* [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project with Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. So far, this project has focused on the development of deployable sensor kits that measure the electrical performance of common commercial building loads in addition to measuring the factors that influence human comfort and wellness. 
+* [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. 
 
 ![Building Data Genome Project](buds-lab.github.io/building_data_genome.png)
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
