@@ -79,7 +79,8 @@ Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quin
 ![Vanessa Neo](buds-lab.github.io/vanessa.png)
 Vanessa Neo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the[NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is the mastermind behind parts of the [EDx Online Course - Foundations of Data Science for the Built Environment](https://www.edx.org/school/nus){:target="_blank"}.
 
-
+![Yiting Teo](buds-lab.github.io/yiting.png)
+Yiting Teo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the[NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yiting is the is a key player in the development of the [Cozie platform]((https://cozie.app/){:target="_blank"} and its deployment.
 
 #### Affiliated Researchers
 ![Dr. Pandarasamy Arjunan](buds-lab.github.io/samyarjunan.jpeg)
