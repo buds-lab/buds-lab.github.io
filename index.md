@@ -18,7 +18,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ![ASHRAE Kaggle](buds-lab.github.io/ashraekaggle.png)
 * [The ASHRAE Great Energy Predictor III Competition on Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"} -- The BUDS Lab is the leading technical organizer of the biggest machine learning competition ever held with over 2500 participants. The competition runs from Oct.-Dec. 2019. The competition is sponsored by the [ASHRAE](https://www.ashrae.org/){:target="_blank"} organization and hosted on the [Kaggle](https://www.kaggle.com/){:target="_blank"}
 
-![Project BuzzNET](buds-lab.github.io/buzznet2.png)
+![Project BuzzNET](buds-lab.github.io/BuzzNet2.png)
 * [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
 
 ![Project Cozie](buds-lab.github.io/cozie.png)
