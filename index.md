@@ -15,6 +15,10 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 
 ## Projects
 
+
+![EDx](buds-lab.github.io/EDxDataScience.png)
+* [Foundations of Data Science for the Built Environment EDx Course](https://youtu.be/jP22Rpngk6I){:target="_blank"} -- In March 2020, the BUDS Lab will launch the first data science online course focused specifically on data from the various phases of the building life cycle. The course will introduce Python, the Pandas Data Analytics library in addition to various visualization and machine learning techniques. [Sign up for the pilot launch if interested!](https://forms.gle/MQPKmpwYLcAt59vj9){:target="_blank"}.
+
 ![ASHRAE Kaggle](buds-lab.github.io/ashraekaggle.png)
 * [The ASHRAE Great Energy Predictor III Competition on Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"} -- The BUDS Lab is the leading technical organizer of the biggest machine learning competition ever held with over 2500 participants. The competition runs from Oct.-Dec. 2019. The competition is sponsored by the [ASHRAE](https://www.ashrae.org/){:target="_blank"} organization and hosted on the [Kaggle](https://www.kaggle.com/){:target="_blank"}
 
@@ -80,7 +84,7 @@ Mahmoud AbdelRahman ([ResearchGate](https://www.researchgate.net/profile/Mahmoud
 Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quintana){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/matiasqr/){:target="_blank"})([GitHub](https://github.com/matiRLC){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab. He is co-supervised by [Prof. Tham Kwok Wai](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgtkw.pdf){:target="_blank"} and is affiliated with [SinBerBest 2](http://sinberbest.berkeley.edu/){:target="_blank"}. He holds a Master of Information Systems Management from the Heinz College at [Carnegie Mellon University](https://www.heinz.cmu.edu/){:target="_blank"} and a B.Sc. in Electrical Engineering from the [Pontifical Catholic University of Peru](http://www.pucp.edu.pe/){:target="_blank"}. Matias is a combination computer scientist and hardware hacker and is using these skills to implement wearable tech in the built environment.
 
 ![Vanessa Neo](buds-lab.github.io/vanessa.png)
-Vanessa Neo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is the mastermind behind parts of the [EDx Online Course - Foundations of Data Science for the Built Environment](https://www.edx.org/school/nus){:target="_blank"}.
+Vanessa Neo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is the mastermind behind parts of the [EDx Online Course - Foundations of Data Science for the Built Environment](https://youtu.be/jP22Rpngk6I){:target="_blank"}.
 
 ![Yiting Teo](buds-lab.github.io/yiting.png)
 Yiting Teo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yiting is the is a key player in the development of the [Cozie platform](https://cozie.app/){:target="_blank"} and its deployment.
