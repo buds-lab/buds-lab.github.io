@@ -76,6 +76,9 @@ Mahmoud AbdelRahman ([ResearchGate](https://www.researchgate.net/profile/Mahmoud
 ![Matias Alberto Quintana Rosales](buds-lab.github.io/matiasquintana.png)
 Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quintana){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/matiasqr/){:target="_blank"})([GitHub](https://github.com/matiRLC){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab. He is co-supervised by [Prof. Tham Kwok Wai](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgtkw.pdf){:target="_blank"} and is affiliated with [SinBerBest 2](http://sinberbest.berkeley.edu/){:target="_blank"}. He holds a Master of Information Systems Management from the Heinz College at [Carnegie Mellon University](https://www.heinz.cmu.edu/){:target="_blank"} and a B.Sc. in Electrical Engineering from the [Pontifical Catholic University of Peru](http://www.pucp.edu.pe/){:target="_blank"}. Matias is a combination computer scientist and hardware hacker and is using these skills to implement wearable tech in the built environment.
 
+![Vanessa Neo](buds-lab.github.io/vanessa.png)
+Vanessa Neo is a Student Researcher at NUS in the BUDS Lab. She is a student in B.Sc. in Project & Facilities Management in the[NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is the mastermind behind parts of the [EDx Online Course - Foundations of Data Science for the Built Environment](https://www.edx.org/school/nus){:target="_blank"}.
+
 
 
 #### Affiliated Researchers
