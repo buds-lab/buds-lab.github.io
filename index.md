@@ -22,11 +22,11 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ![ASHRAE Kaggle](buds-lab.github.io/ashraekaggle.png)
 * [The ASHRAE Great Energy Predictor III Competition on Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"} -- The BUDS Lab is the leading technical organizer of the biggest building energy-related machine learning competition ever held with over 2,500 participants, data from thousands of buildings, and US$25,000 in prize money for the top five winners. The competition runs from Oct.-Dec. 2019 and is sponsored by [ASHRAE](https://www.ashrae.org/){:target="_blank"} and hosted on the [Kaggle](https://www.kaggle.com/){:target="_blank"} platform. This competition is a resurrection [prediction challenges hosted by ASHRAE in the mid-1990's](https://www.kaggle.com/c/great-energy-predictor-shootout-i){:target="_blank"}
 
-![Project BuzzNET](buds-lab.github.io/BuzzNet2.png)
-* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
-
 ![SpaceMatch](buds-lab.github.io/spacematch.png)
 * [SpaceMatch](https://www.spacematch.me/){:target="_blank"} -- SpaceMatch is the Uber&reg; of flexible workspaces. It is an AI-enhanced spatial recommendation engine that matches building occupants to suitable workspaces based on comfort preferences. A live demonstration was implemented in the SDE4 building at NUS.
+
+![Project BuzzNET](buds-lab.github.io/BuzzNet2.png)
+* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
 
 ![Project Cozie](buds-lab.github.io/cozie.png)
 * [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. The platform is being developed for researchers anywhere in the world to use a methodological component.
