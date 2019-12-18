@@ -23,7 +23,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 * [The ASHRAE Great Energy Predictor III Competition on Kaggle](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"} -- The BUDS Lab is the leading technical organizer of the biggest building energy-related machine learning competition ever held with over 2,500 participants, data from thousands of buildings, and US$25,000 in prize money for the top five winners. The competition runs from Oct.-Dec. 2019 and is sponsored by [ASHRAE](https://www.ashrae.org/){:target="_blank"} and hosted on the [Kaggle](https://www.kaggle.com/){:target="_blank"} platform. This competition is a resurrection [prediction challenges hosted by ASHRAE in the mid-1990's](https://www.kaggle.com/c/great-energy-predictor-shootout-i){:target="_blank"}
 
 ![SpaceMatch](buds-lab.github.io/spacematch.png)
-* [SpaceMatch](https://www.spacematch.me/){:target="_blank"} -- SpaceMatch is the Uber&reg; of flexible workspaces. It is an AI-enhanced spatial recommendation engine that matches building occupants to suitable workspaces based on comfort preferences. A live demonstration was implemented in the SDE4 building at NUS.
+* [SpaceMatch](https://www.spacematch.me/){:target="_blank"} -- SpaceMatch is the Uber&reg; of flexible workspaces -- an AI-enhanced spatial recommendation engine that matches building occupants to suitable workspaces based on comfort preferences. A live demonstration was implemented in the SDE4 building at NUS.
 
 ![Project BuzzNET](buds-lab.github.io/BuzzNet2.png)
 * [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
@@ -103,6 +103,9 @@ Dr. Federico Tartarini ([ResearchGate](https://www.researchgate.net/profile/Fede
 
 ![Dr. Pandarasamy Arjunan](buds-lab.github.io/samyarjunan.jpeg)
 Dr. Pandarasamy Arjunan ([ResearchGate](https://www.researchgate.net/profile/Pandarasamy_Arjunan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pandarasamy-arjunan-5580a215/){:target="_blank"})([GitHub](https://github.com/HiSamy){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"} and is in the Thrust D: City-Scale Analytics project with the BUDS Lab and [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html){:target="_blank"}. He holds a Ph.D. in Computer Science from the [IIIT-Delhi](https://iiitd.ac.in/){:target="_blank"}, a Master of Computer Applications (MCA) from the [Madurai Kamraj University](http://mkuniversity.ac.in/new/){:target="_blank"}, and a Bachelor of Science in Computer Science from the [Manonmaniam Sundaranar University](https://www.msuniv.ac.in/){:target="_blank"} in India. Dr. Arjunan is exploring scalable city-scale analytics techniques for benchmarking buildings.
+
+![Dr. Renee Christensen](buds-lab.github.io/renee.jpeg)
+Dr. Renee Christensen (([LinkedIn](https://www.linkedin.com/in/renee-christensen-66843688/){:target="_blank"}) is a Senior Research Fellow at the [NUS School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} as the expert in Building Occupant Wellness and Environmental Behavior Analysis. She holds a Ph.D. in Environment and Behavior from the [University of Missouri - Columbia](https://missouri.edu/){:target="_blank"} in the USA and a Masters of Education from [Drury University](https://www.drury.edu/){:target="_blank"}. Dr. Christensen is analyzing how buildings impact people's health and satisfaction.
 
 
 #### Alumni
