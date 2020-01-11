@@ -140,7 +140,7 @@ If so, please ([contact Dr. Clayton via email](mailto:clayton@nus.edu.sg)) to di
  -->
 [Leadership Lessons from a Dancing Guy](http://bit.ly/2mzHS2I){:target="_blank"}
 
-&copy; 2017-2019 BUDS Lab
+&copy; 2017-2020 BUDS Lab
 
 Website design forked from [Solo Jekyll theme](https://chibicode.github.io/solo/){:target="_blank"} and hosted on [Github Pages](https://pages.github.com/){:target="_blank"}
 
