@@ -11,10 +11,11 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
-BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://nus.edu/2nczgAk){:target="_blank"}
+BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is the #1 ranked university in Asia and is in the top 25 globally.](https://news.nus.edu.sg/nus-ranked-top-10-globally-in-16-subjects/){:target="_blank"}
 
 ## Projects
-
+![Project Cozie Apple](buds-lab.github.io/cozie-apple.png)
+* [Cozie Apple Watch](https://cozie-apple.app){:target="_blank"} --  The latest version of the Cozie clockface application for the Apple Watch platform. This project is led by [Dr. Federico Tartarini](https://federicotartarini.github.io){:target="_blank"} and is a collaboration with [Stefano Schiavon](https://ced.berkeley.edu/ced/faculty-staff/stefano-schiavon){:target="_blank"}'s team at the [SinBerBEST 2 Lab](https://sinberbest.berkeley.edu){:target="_blank"} in Singapore.
 
 ![EDx](buds-lab.github.io/EDxDataScience.png)
 * [Data Science for Construction, Architecture and Engineering Online EDx Course](https://www.edx.org/course/Data-Science-for-Construction-Architecture-and-Engineering){:target="_blank"} -- The BUDS Lab hosts the first online data science course focused **specifically on data analytics from the various phases of the building life cycle - design, construction, and operations.** This is an introductory course that adds [Python](https://www.python.org/){:target="_blank"}, the [Pandas Data Analytics library](https://pandas.pydata.org/){:target="_blank"} and various visualization and machine learning techniques to the toolbox of architects, engineers, operations, and other industry professionals. 
@@ -25,27 +26,28 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ![SpaceMatch](buds-lab.github.io/spacematch.png)
 * [SpaceMatch](https://www.spacematch.me/){:target="_blank"} -- SpaceMatch is the Uber&reg; of flexible workspaces -- an AI-enhanced spatial recommendation engine that matches building occupants to suitable workspaces based on comfort preferences. A live demonstration was implemented in the SDE4 building at NUS.
 
-![Project BuzzNET](buds-lab.github.io/BuzzNet2.png)
-* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas.
-
-![Project Cozie](buds-lab.github.io/cozie.png)
+![Project Cozie Fitbit](buds-lab.github.io/cozie.png)
 * [Project Cozie](https://cozie.app/){:target="_blank"} --  A Fitbit-based clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. The platform is being developed for researchers anywhere in the world to use a methodological component.
 
 ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png)
 * [Crowdsourcing Comfort: The Learning Trail](http://learningtrail.me/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
 
-![Building Data Genome Project](buds-lab.github.io/building_data_genome.png)
-* [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented
 
-![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png)
-* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts. The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.
  
 
 #### Past Projects
 
-<!-- ![3for2](buds-lab.github.io/3for2.png) -->
+<!-- ![Building Data Genome Project](buds-lab.github.io/building_data_genome.png) -->
+* [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented *Superseded by BDG2 in Sept. 2020*
 
+<!-- ![Project BuzzNET](buds-lab.github.io/BuzzNet2.png) -->
+* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas. *Completed in June 2020*
+
+<!-- ![3for2](buds-lab.github.io/3for2.png) -->
 * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. *Completed in Sept. 2019*
+
+<!-- ![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png) -->
+* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts. The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data. *Completed in Jan. 2019*
 
 * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) *Completed in Oct. 2018*
 
