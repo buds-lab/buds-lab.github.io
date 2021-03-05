@@ -41,13 +41,17 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} -- A open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented *Superseded by BDG2 in Sept. 2020*
 
 <!-- ![Project BuzzNET](buds-lab.github.io/BuzzNet2.png) -->
-* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas. *Completed in June 2020*
+* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- Machine learning for mosquito detection and prevention led by former Fulbrigher Ananya Joshi. *Completed in June 2020*
+
+<!-- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas. *Completed in June 2020* -->
 
 <!-- ![3for2](buds-lab.github.io/3for2.png) -->
 * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. *Completed in Sept. 2019*
 
 <!-- ![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png) -->
-* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts. The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data. *Completed in Jan. 2019*
+* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} ([ResearchGate](http://bit.ly/2mf75Nf){:target="_blank"}) -- A website for data science tutorials for building performance analysts.  *Completed in Jan. 2019*
+
+<!-- The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.  -->
 
 * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} ([ResearchGate](http://bit.ly/2nijLnj){:target="_blank"}) *Completed in Oct. 2018*
 
@@ -67,8 +71,6 @@ Dr. Clayton Miller ([ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"})([Li
 <!-- ![Dr. Jayashree Chadalawada](buds-lab.github.io/jayashree1.png)
 Dr. Jayashree Chadalawada ([ResearchGate](https://www.researchgate.net/profile/Jayashree_Chadalawada){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jayashree-chadalawada-b241132b/){:target="_blank"})([GitHub](https://github.com/Jayashreerao){:target="_blank"}) is a Post-Doctoral Researcher at NUS in the BUDS Lab. She holds a Ph.D. in Hydroinformatics from the [NUS Dept. of Civil and Environmental Engineering](http://cee.nus.edu.sg/){:target="_blank"}, a Master's of Technology (MTech) from the [IIT Bombay](http://www.iitb.ac.in/students/en){:target="_blank"}, and a Bachelor's Degree in Civil Engineering from the [Government College of Technology, Coimbatore](http://www.gct.ac.in/){:target="_blank"} in India. Dr. Chadalwada is an informatics expert that is working on measuring the impact of social behavioral change on building performance. -->
 
-![Dr. Prageeth Jayathissa](buds-lab.github.io/pjjayasthissa.jpeg)
-Dr. Prageeth Jayathissa ([ResearchGate](https://www.researchgate.net/profile/Prageeth_Jayathissa){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pjayathissa/){:target="_blank"})([GitHub](https://github.com/pjayathissa){:target="_blank"})([ORCID](https://orcid.org/0000-0003-3833-1852){:target="_blank"}) is a Post-Doctoral Researcher at NUS in the BUDS Lab.  He holds a Doctor of Sciences (Dr. sc. ETH Zurich) and Masters in Energy Science from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"} and a Bachelor's Degree in Mechanical Engineering from the [University of Canterbury](https://www.canterbury.ac.nz/){:target="_blank"} in New Zealand. Dr. Jayathissa is the equivalent of the BUDS Lab *Oberassistent* (Senior Researcher) as he ties together all the technologies being developed. He is an expert in prototyping, engineering, design, and computer science.
 
 <!-- ![Dongkyu Lee](buds-lab.github.io/dongkyu.png)
 Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"}) is a Research Associate and Ph.D. candidate at NUS in the BUDS Lab. He holds a [MSc. in Machine Learning](https://ee.kaist.ac.kr/?language=en){:target="_blank"} from the Korea Advanced Institute of Science and Technology (KAIST), a [MSc. in Environmental Engineering and Sustainable Development](http://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-environmental-engineering/){:target="_blank"} from Imperial College London, and a dual Bachelor's Degree in Architectural Engineering from the [Illinois Institute of Technology](https://engineering.iit.edu/programs/undergraduate/bachelor-science-architectural-engineering){:target="_blank"} and [Hanyang University](http://www.hanyang.ac.kr/web/eng/e1012){:target="_blank"}. He has worked as a research manager at Hyundai Engineering for three years before coming to NUS and is an expert in machine learning for the built environment and IoT analytics. -->
@@ -114,11 +116,21 @@ Dr. Renee Christensen ([LinkedIn](https://www.linkedin.com/in/renee-christensen-
 
 
 #### Alumni
-* Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"}) - Lecturer at [Hanyang University](https://www.hanyang.ac.kr/web/eng){:target="_blank"}
+
+
+<!-- ![Dr. Prageeth Jayathissa](buds-lab.github.io/pjjayasthissa.jpeg) -->
+* Dr. Prageeth Jayathissa ([ResearchGate](https://www.researchgate.net/profile/Prageeth_Jayathissa){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/pjayathissa/){:target="_blank"})([GitHub](https://github.com/pjayathissa){:target="_blank"})([ORCID](https://orcid.org/0000-0003-3833-1852){:target="_blank"}) - Head of Sustainability at [Vector Limited](https://www.vector.co.nz){:target="_blank"}
+<!-- is a Post-Doctoral Researcher at NUS in the BUDS Lab.  He holds a Doctor of Sciences (Dr. sc. ETH Zurich) and Masters in Energy Science from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"} and a Bachelor's Degree in Mechanical Engineering from the [University of Canterbury](https://www.canterbury.ac.nz/){:target="_blank"} in New Zealand. Dr. Jayathissa is the equivalent of the BUDS Lab *Oberassistent* (Senior Researcher) as he ties together all the technologies being developed. He is an expert in prototyping, engineering, design, and computer science. -->
 
 * Dr. Jayashree Chadalawada ([ResearchGate](https://www.researchgate.net/profile/Jayashree_Chadalawada){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jayashree-chadalawada-b241132b/){:target="_blank"})([GitHub](https://github.com/Jayashreerao){:target="_blank"}) - Researcher at the [NUS Dept. of Civil Engineering](https://www.eng.nus.edu.sg/cee/){:target="_blank"}
 
 * Tapeesh Sood ([ResearchGate](https://www.researchgate.net/profile/Tapeesh_Sood){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/tapeeshsood/){:target="_blank"})([GitHub](https://github.com/tapeesh){:target="_blank"}) - Product Manager - Location Based Member Experiences at [WeWork](https://www.wework.com/en-GB){:target="_blank"}
+
+* Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"}) - Lecturer at [Hanyang University](https://www.hanyang.ac.kr/web/eng){:target="_blank"}
+
+
+
+
 
 ## Publications
 All current and in-progress publications found on [ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"} and [Google Scholar](http://bit.ly/2mzJM35){:target="_blank"}
