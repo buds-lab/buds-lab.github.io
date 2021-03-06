@@ -51,10 +51,11 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 ## People
 
 #### Lab Leaders
-![Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
+![Prof. Dr. Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
 Dr. Clayton Miller ([ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"})([Scopus](https://www.scopus.com/authid/detail.uri?authorId=55907251600){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en){:target="_blank"})([ORCID](https://orcid.org/0000-0002-1186-4299){:target="_blank"})([Publons](https://publons.com/author/1405785/clayton-miller#profile){:target="_blank"})([LinkedIn](http://bit.ly/2ncAV9h){:target="_blank"})([GitHub](http://bit.ly/2nsvUoS){:target="_blank"})([Kaggle](https://www.kaggle.com/claytonmiller){:target="_blank"}) is an Asst. Professor at NUS in the BUDS Lab, the [Co-Leader of Theme D - Data Analytics at the UC Berkeley SinBerBEST2 Lab](https://sinberbest.berkeley.edu/){:target="_blank"} and the [Co-Leader of Subtask 4 of the IEA Annex 79 Occupant-Centric Building Design and Operation](http://annex79.iea-ebc.org/){:target="_blank"}. He holds a Doctor of Sciences (Dr. sc. ETH Zurich) from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"}, an MSc. (Building) from the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}, and a BSc./Masters of Architectural Engineering (MAE) from the [University of Nebraska - Lincoln (UNL)](http://bit.ly/2mzLhhS){:target="_blank"}. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up, a former [Fulbright Scholar to Singapore](http://bit.ly/2mfcUKy){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](http://bit.ly/2mPcei3){:target="_blank"} at UNL. 
-
 <!-- . He was formerly a researcher at the [Future Cities Lab](http://bit.ly/2mWFJih){:target="_blank"} and a fellow at the [Institute of Technology in Architecture](http://www.ita.arch.ethz.ch/){:target="_blank"} at the [ETH Z&uuml;rich](https://www.ethz.ch/en.html){:target="_blank"}. Dr. Miller is -->
+![Dr. Mario Frei](buds-lab.github.io/mariofrei.png)
+Dr. Mario Frei ([ResearchGate](https://www.researchgate.net/profile/Mario_Frei){:target="_blank"})([Scopus](https://www.scopus.com/authid/detail.uri?authorId=56405252200){:target="_blank"})([ORCID](https://orcid.org/0000-0003-2193-5211){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/mario-frei/){:target="_blank"}) is a Post-Doctoral Researcher at NUS in the BUDS Lab.  He holds a Doctor of Sciences (Dr. sc. ETH Zurich) in Architectural and Building Sciences/Technology and a Bachelor's (BSc) and Masters in Science (MSc) in Mechanical Engineering from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"} in Switzerland. Dr. Frei is the equivalent of the BUDS Lab *Oberassistent* (Senior Researcher) as he ties together all the technologies being developed. He is an expert in prototyping, engineering, design, and computer science.
 
 #### Researchers (Alphabetic Order)
 ![Chun Fu](buds-lab.github.io/fuchun.png)
@@ -70,7 +71,7 @@ Mahmoud AbdelRahman ([ResearchGate](https://www.researchgate.net/profile/Mahmoud
 Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quintana){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/matiasqr/){:target="_blank"})([GitHub](https://github.com/matqr){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab. He is co-supervised by [Prof. Tham Kwok Wai](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgtkw.pdf){:target="_blank"} and is affiliated with [SinBerBest 2](http://sinberbest.berkeley.edu/){:target="_blank"}. He holds a Master of Information Systems Management from the Heinz College at [Carnegie Mellon University](https://www.heinz.cmu.edu/){:target="_blank"} and a B.Sc. in Electrical Engineering from the [Pontifical Catholic University of Peru](http://www.pucp.edu.pe/){:target="_blank"}. Matias is a combination computer scientist and hardware hacker and is using these skills to implement wearable tech in the built environment.
 
 ![Yiting Teo](buds-lab.github.io/yiting.png)
-Yi Ting Teo is a Student Researcher and Project Manager in the BUDS Lab. She is a student in the Project & Facilities Management program in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yi Ting is a leader of the team developing the [Cozie](https://cozie.app/){:target="_blank"} and Internet-of-Buildings (IoB) platforms.
+Yi Ting Teo is a Project Manager in the BUDS Lab and a student in the Project & Facilities Management program in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yi Ting is a leader of the team developing the [Cozie](https://cozie.app/){:target="_blank"} and Internet-of-Buildings (IoB) platforms.
 
 
 #### Affiliated Researchers
@@ -80,9 +81,9 @@ Dr. Federico Tartarini ([ResearchGate](https://www.researchgate.net/profile/Fede
 ![Dr. Renee Christensen](buds-lab.github.io/renee.jpeg)
 Dr. Renee Christensen ([LinkedIn](https://www.linkedin.com/in/renee-christensen-66843688/){:target="_blank"}) is a Senior Research Fellow at the [NUS School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} as a resident expert in Building Occupant Wellness and Environmental Behavior Analysis. She holds a Ph.D. in Environment and Behavior from the [University of Missouri - Columbia](https://missouri.edu/){:target="_blank"} and a Masters of Education from [Drury University](https://www.drury.edu/){:target="_blank"} in the USA. Dr. Christensen is analyzing how buildings impact people's health and satisfaction.
 
-#### Student Researchers
+<!-- #### Student Researchers -->
 <!-- ![Vanessa Neo](buds-lab.github.io/vanessa.png) -->
-* Vanessa Neo is a Student Researcher at NUS in the BUDS Lab from the Project & Facilities Management program in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is a designer of key parts of the [NUS EDx Online Course - Foundations of Data Science for the Built Environment](https://youtu.be/jP22Rpngk6I){:target="_blank"}.
+<!-- * Vanessa Neo is a Student Researcher at NUS in the BUDS Lab from the Project & Facilities Management program in the [NUS Dept. of Building](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Vanessa is a designer of key parts of the [NUS EDx Online Course - Foundations of Data Science for the Built Environment](https://youtu.be/jP22Rpngk6I){:target="_blank"}. -->
 
 
 #### Alumni
