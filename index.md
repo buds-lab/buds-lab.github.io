@@ -43,7 +43,7 @@ BUDS Lab is in the [Dept. of Building](https://nus.edu/2mzJmtt){:target="_blank"
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- A collaboration with the [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} and an open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented. *Superseded by BDG2 in Sept. 2020*
 <!-- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} --  -->
 <!-- ![Project BuzzNET](buds-lab.github.io/BuzzNet2.png) -->
-* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- Machine learning for mosquito detection and prevention led by former Fulbrigher Ananya Joshi. *Completed in June 2020*
+* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- Machine learning for mosquito detection and prevention led by former Fulbrighter Ananya Joshi. *Completed in June 2020*
 <!-- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas. *Completed in June 2020* -->
 <!-- ![IoT at NUS](buds-lab.github.io/iotatnus.png) -->
 * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. *Completed in Sept. 2019*
