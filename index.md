@@ -6,7 +6,7 @@ layout: default
 
 BUDS Lab is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
-Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"} and [GitHub](http://bit.ly/2mfifkR){:target="_blank"}!
+Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"}, [GitHub](http://bit.ly/2mfifkR){:target="_blank"}, and [ResearchGate](https://www.researchgate.net/lab/Building-and-Urban-Data-Science-BUDS-Lab-Clayton-Miller){:target="_blank"}!
 <!-- and [subscribe to the email list](http://bit.ly/2mPhWAH){:target="_blank"} -->
 
 ![BUDS lab](buds-lab.github.io/nus.png)
@@ -96,6 +96,9 @@ Dr. Federico Tartarini ([ResearchGate](https://www.researchgate.net/profile/Fede
 
 ![Dr. Martin Mosteiro-Romero](buds-lab.github.io/martinmosteiro.png)
 Dr. Martin Mosteiro Romero ([ResearchGate](https://www.researchgate.net/profile/Martin-Mosteiro-Romero){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-mosteiro-romero-30830727/){:target="_blank"})([GitHub](https://github.com/martin-mosteiro){:target="_blank"})([Google Scholar](https://scholar.google.ch/citations?user=paRcx8wAAAAJ&hl=en){:target="_blank"}) is a Post-Doctoral Researcher in NUS as part of the [Future Resilient Systems (FRS) Lab](https://frs.ethz.ch){:target="_blank"} within the Module 1.4 - Digital Twin-Enabled System Resilience project led at NUS by [Prof. Rudi Stouffs](https://www.sde.nus.edu.sg/arch/staffs/rudi-stouffs-dr/){:target="_blank"}. He holds a Doctor of Sciences (Dr. sc. ETH Zurich) and Masters in Energy Science from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"} and a Bachelor's Degree in Bioenvironmental Engineering from [Rutgers University](https://www.rutgers.edu){:target="_blank"} in the USA. Dr. Mosteiro is investigating how to use digital twins to improve the resilience of building systems.
+
+![Dr. Miguel Martin](buds-lab.github.io/miguelmartin.png)
+Miguel Martin ([ResearchGate](https://www.researchgate.net/profile/Miguel-Martin-15){:target="_blank"})([GitHub](https://github.com/migmartin){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=KngdHq4AAAAJ&hl=en){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"} and is in the Theme D: City-Scale Analytics project with the BUDS Lab and [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html){:target="_blank"}. He in the process of finishing a Ph.D. in Building Science from the [National University of Singapore](https://www.nus.edu.sg){:target="_blank"} and holds a Master and Bachelor's of Computer Science from the [University of Geneva](https://www.unige.ch/en/university/presentation/){:target="_blank"} in Switzerland. Miguel is investigating the use of infrared radiation cameras and computer vision to analyze buildings at scale.
 
 ![Dr. Renee Christensen](buds-lab.github.io/renee.jpeg)
 Dr. Renee Christensen ([LinkedIn](https://www.linkedin.com/in/renee-christensen-66843688/){:target="_blank"}) is a Senior Research Fellow at the [NUS School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} as a resident expert in Building Occupant Wellness and Environmental Behavior Analysis. She holds a Ph.D. in Environment and Behavior from the [University of Missouri - Columbia](https://missouri.edu/){:target="_blank"} and a Masters of Education from [Drury University](https://www.drury.edu/){:target="_blank"} in the USA. Dr. Christensen is analyzing how buildings impact people's health and satisfaction.
