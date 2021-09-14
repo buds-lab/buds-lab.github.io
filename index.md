@@ -93,6 +93,10 @@ Yun Xuan Chua ([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_bla
 
 
 #### Affiliated Researchers
+
+![Dr. Chuan Fu Tan](buds-lab.github.io/chuanfu.png)
+Dr. Chuan Fu Tan ([ResearchGate](https://www.researchgate.net/profile/Chuan-Tan-9){:target="_blank"})([LinkedIn](https://sg.linkedin.com/in/chuan-fu-tan-38a0b6102/){:target="_blank"})([GitHub](https://github.com/cf-tan){:target="_blank"})([StackOverflow](https://stackoverflow.com/users/16876215/chuan-fu-tan){:target="_blank"})([Google Scholar](https://scholar.google.com.sg/citations?user=FmOCFzIAAAAJ&hl=en){:target="_blank"}) is a Researcher at the [Johnson Controls Open Blue Innovation Center](https://www.johnsoncontrols.com/en_sg/openblue-innovation-center){:target="_blank"} that is hosted in the SDE4 building at NUS. He holds a Ph.D. in Integrative Sciences and Engineering and a Bachelor's of Engineering (B.Eng.) from the [National University of Singapore](https://www.nus.edu.sg){:target="_blank"}. Dr. Tan is exploring ways to analyze data from building automation and energy systems in scalable ways using tools like the [BRICK Schema](https://brickschema.org){:target="_blank"}. 
+
 ![Dr. Federico Tartarini](buds-lab.github.io/federico.png)
 Dr. Federico Tartarini ([ResearchGate](https://www.researchgate.net/profile/Federico_Tartarini/research){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/federico-tartarini-3991995b/){:target="_blank"})([GitHub](https://github.com/FedericoTartarini){:target="_blank"})([ORCID](https://orcid.org/0000-0002-8739-5062){:target="_blank"})([Google Scholar](https://scholar.google.com.sg/citations?user=QcamSPwAAAAJ&hl=en){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"} and is in the Theme A: Human-Building Nexus - Enhancing Health and Productivity in the Built Environment project led by [Prof. Stefano Schiavon](https://ced.berkeley.edu/ced/faculty-staff/stefano-schiavon){:target="_blank"}. He holds a Ph.D. in Engineering from the [University of Wollongong (UOW)](https://www.uow.edu.au/){:target="_blank"} in Australia and a Master and Bachelor's of Engineering from the [University of Bologna](https://www.unibo.it/en/homepage){:target="_blank"} in Italy. Dr. Tartarini is exploring new developments in non-intrusive methodologies to monitor indoor environmental quality parameters.
 
@@ -104,8 +108,6 @@ Dr. Miguel Martin ([ResearchGate](https://www.researchgate.net/profile/Miguel-Ma
 
 ![Dr. Vasantha Ramani](buds-lab.github.io/vasnatha.png)
 Dr. Vasantha Ramani ([LinkedIn](https://www.linkedin.com/in/vasantha-ramani-0a488022/){:target="_blank"}) is a Post-Doctoral Researcher at the [Berkeley Education Alliance for Research in Singapore (BEARS)](http://sinberbest.berkeley.edu/){:target="_blank"} and is in the Theme D: City-Scale Analytics project with the BUDS Lab and [Prof. Kameshwar Poolla](https://www2.eecs.berkeley.edu/Faculty/Homepages/poolla.html){:target="_blank"}. She holds a Ph.D. in Civil Engineering from the [National University of Singapore](https://www.nus.edu.sg){:target="_blank"}, Master’s in Structural and Earthquake Engineering from the [University of British Columbia, Vancouver](https://www.ubc.ca){:target="_blank"}, and a Bachelor’s in Civil Engineering from the [National Institute of Technology, Trichy](https://www.nitt.edu){:target="_blank"}. Dr. Ramani is investigating building energy performance and human thermal comfort using infrared images.
-
-Dr. Vasantha Ramani (LinkedIn) 
 
 <!-- #### Student Researchers -->
 <!-- ![Vanessa Neo](buds-lab.github.io/vanessa.png) -->
