@@ -11,7 +11,7 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"}, [GitHub](htt
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
-BUDS Lab is in the [Department of the Built Environment](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is ranked in the Top 10 globally in 16 subjects, including #6 in the Built Environment.](https://news.nus.edu.sg/nus-ranked-top-10-globally-in-16-subjects/){:target="_blank"}
+BUDS Lab is in the [Department of the Built Environment](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is ranked in the Top 10 globally in 16 subjects, including \#6 in the Built Environment.](https://news.nus.edu.sg/nus-ranked-top-10-globally-in-16-subjects/){:target="_blank"}
 
 ## Projects
 ![Project Cozie Apple](buds-lab.github.io/cozie-apple.png)
