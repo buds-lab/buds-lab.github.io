@@ -11,7 +11,7 @@ Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"}, [GitHub](htt
 
 ![BUDS lab](buds-lab.github.io/nus.png)
 
-BUDS Lab is in the [Department of the Built Environment](https://nus.edu/2mzJmtt){:target="_blank"} in the [School of Design and Environment](https://nus.edu/2myAMKc){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is ranked in the Top 10 globally in 16 subjects, including \#6 in the Built Environment.](https://news.nus.edu.sg/nus-ranked-top-10-globally-in-16-subjects/){:target="_blank"}
+BUDS Lab is in the [Department of the Built Environment](https://cde.nus.edu.sg/dbe/){:target="_blank"} in the [College of Design and Engineering](https://cde.nus.edu.sg/){:target="_blank"} at the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"}. [NUS is ranked in the Top 10 globally in 16 subjects, including \#6 in the Built Environment.](https://news.nus.edu.sg/nus-ranked-top-10-globally-in-16-subjects/){:target="_blank"}
 
 ## Projects
 ![Project Cozie Apple](buds-lab.github.io/cozie-apple.png)
@@ -69,13 +69,11 @@ Dr. Mario Frei ([ResearchGate](https://www.researchgate.net/profile/Mario_Frei){
 Bianca Picchetti ([ResearchGate](https://www.researchgate.net/profile/Bianca-Picchetti){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/biami/){:target="_blank"})([GitHub](https://github.com/ponybiam){:target="_blank"}) is a Data Scientist who leads several BUDS Lab analytics projects. She holds a Degree in Chemistry and is working on a Masters in Data Mining and Knowledge Discovery from the [University of Buenos Aires](http://www.uba.ar/internacionales/index.php?lang=en){:target="_blank"} in Argentina. Bianca leads the data analysis process for the [Building Data Genome 2 Project](https://github.com/buds-lab/building-data-genome-project-2){:target="_blank"} and the [GEPIII competition](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"}.
 
 ![Charlene Tan](buds-lab.github.io/charlenetan.png)
-Charlene Tan ([ResearchGate](https://www.researchgate.net/profile/Charlene-Tan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/charlene-tan-a9497b143/){:target="_blank"}) is a Project Manager in the BUDS Lab and a student in the Project & Facilities Management program at [NUS](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Charlene is the primary project manager of the [Data Science for Construction, Architecture and Engineering Online EDx Course](https://www.edx.org/course/Data-Science-for-Construction-Architecture-and-Engineering){:target="_blank"} and assists with the Internet-of-Buildings portal and experimental deployments.
+Charlene Tan ([ResearchGate](https://www.researchgate.net/profile/Charlene-Tan){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/charlene-tan-a9497b143/){:target="_blank"}) is a Lab Executive in the Department of the Built Environment and collaborator of the BUDS Lab. She is a graduate of the Infrastructure & Project Management program at [NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Charlene assists in the management of the [Data Science for Construction, Architecture and Engineering Online EDx Course](https://www.edx.org/course/Data-Science-for-Construction-Architecture-and-Engineering){:target="_blank"} and assists with the Internet-of-Buildings portal and experimental deployments.
 
 ![Chun Fu](buds-lab.github.io/fuchun.png)
 Chun Fu ([ResearchGate](https://www.researchgate.net/profile/Chun_Fu5){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/chun-fu/){:target="_blank"})([GitHub](https://github.com/PatrickFu0302/){:target="_blank"})([ORCID](https://orcid.org/0000-0002-6152-3257){:target="_blank"})([Kaggle](https://www.kaggle.com/patrick0302){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab. He holds a B.Sc. in Bioenvironmental Systems Engineering and a Master of Science (M.S.) in Sustainable Environment and Green Architecture from the [National Taiwan University](https://www.ntu.edu.tw/english/){:target="_blank"}. Chun is working on the analysis of large portfolios of buildings using machine learning techniques.
 
-![Irvin Tang](buds-lab.github.io/irvin1.png)
-Irvin Tang ([ResearchGate](https://www.researchgate.net/profile/Irvin_Tang){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/irvintang/){:target="_blank"})([GitHub](https://github.com/irrhuh){:target="_blank"}) is a Master's Student at NUS in the BUDS Lab. He holds a B.Sc. in Project & Facilities Management, Honours (Merit) from [NUS](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Irvin is an expert in identifying and documenting construction and operations defects and is working on elegant ways of using deep learning and image recognition to enhance the building industry.
 
 <!-- He is co-supervised by [Dr. Wang Qian](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgwang_082018.pdf){:target="_blank"}. -->
 
@@ -86,10 +84,10 @@ Mahmoud AbdelRahman ([ResearchGate](https://www.researchgate.net/profile/Mahmoud
 Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quintana){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/matiasqr/){:target="_blank"})([GitHub](https://github.com/matqr){:target="_blank"}) is a Ph.D. Researcher at NUS in the BUDS Lab and is affiliated with [SinBerBest 2](http://sinberbest.berkeley.edu/){:target="_blank"}. He is co-supervised by [Prof. Stefano Schiavon](https://ced.berkeley.edu/ced/faculty-staff/stefano-schiavon){:target="_blank"} from UC Berkeley and [Prof. Tham Kwok Wai](http://www.bdg.nus.edu.sg/documents/about-us/faculty/staff_bdgtkw.pdf){:target="_blank"} from NUS. He holds a Master of Information Systems Management from the Heinz College at [Carnegie Mellon University](https://www.heinz.cmu.edu/){:target="_blank"} and a B.Sc. in Electrical Engineering from the [Pontifical Catholic University of Peru](http://www.pucp.edu.pe/){:target="_blank"}. Matias is a combination computer scientist and hardware hacker and is using these skills to implement wearable tech in the built environment.
 
 ![Yi Ting Teo](buds-lab.github.io/yiting.png)
-Yi Ting Teo ([ResearchGate](https://www.researchgate.net/profile/Yi-Ting-Teo){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/teo-yi-ting-61593496/){:target="_blank"}) is a Project Manager in the BUDS Lab and a student in the Project & Facilities Management program at [NUS](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yi Ting co-leads the Internet-of-Buildings (IoB) platform and helps manage the lab resources and deployments.
+Yi Ting Teo ([ResearchGate](https://www.researchgate.net/profile/Yi-Ting-Teo){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/teo-yi-ting-61593496/){:target="_blank"}) is a Research Associate and Project Manager in the IDEAS Lab and is collaborator of the BUDS Lab. She is a graduate of the Infrastructure & Project Management program at [NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yi Ting manages key parts of a project focused on mixed-mode ventilation innovation.
 
 ![Yun Xuan Chua](buds-lab.github.io/yunxuan.png)
-Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua){:target="_blank"})([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_blank"}) is a Project Manager in the BUDS Lab and a student in the Project & Facilities Management program at [NUS](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Yun Xuan assists with the Internet-of-Buildings portal and helps with the experimental deployments.
+Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua){:target="_blank"})([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_blank"}) is a Research Associate and Project Manager in the BUDS Lab. She is a graduate of the Infrastructure & Project Management program at [NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yun Xuan leads the development of the Internet-of-Buildings portal and organizes experimental deployments.
 
 
 #### Affiliated Researchers
@@ -115,6 +113,10 @@ Dr. Vasantha Ramani ([ResearchGate](https://www.researchgate.net/profile/Vasanth
 
 
 #### Alumni
+
+<!-- ![Irvin Tang](buds-lab.github.io/irvin1.png) -->
+Irvin Tang ([ResearchGate](https://www.researchgate.net/profile/Irvin_Tang){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/irvintang/){:target="_blank"})([GitHub](https://github.com/irrhuh){:target="_blank"}) - Master's Candidate at NUS
+<!-- is a Master's Student at NUS in the BUDS Lab. He holds a B.Sc. in Project & Facilities Management, Honours (Merit) from [NUS](http://www.bdg.nus.edu.sg/undergraduate/PFM-curriculum.html){:target="_blank"}. Irvin is an expert in identifying and documenting construction and operations defects and is working on elegant ways of using deep learning and image recognition to enhance the building industry. -->
 <!-- * Dr. Renee Christensen ([LinkedIn](https://www.linkedin.com/in/renee-christensen-66843688/){:target="_blank"})  -->
 <!-- is a Senior Research Fellow at the [NUS School of Design and Environment](http://www.sde.nus.edu.sg/){:target="_blank"} as a resident expert in Building Occupant Wellness and Environmental Behavior Analysis. She holds a Ph.D. in Environment and Behavior from the [University of Missouri - Columbia](https://missouri.edu/){:target="_blank"} and a Masters of Education from [Drury University](https://www.drury.edu/){:target="_blank"} in the USA. Dr. Christensen is analyzing how buildings impact people's health and satisfaction. -->
 <!-- ![Dr. Renee Christensen](buds-lab.github.io/renee.jpeg) -->
@@ -164,7 +166,7 @@ If so, please ([contact Dr. Clayton via email](mailto:clayton@nus.edu.sg)) to di
 
 [Everything is a Remix](https://youtu.be/MZ2GuvUWaP8){:target="_blank"}
 
-&copy; 2017-2021 BUDS Lab
+&copy; 2017-2022 BUDS Lab
 
 Website design forked from [Solo Jekyll theme](https://chibicode.github.io/solo/){:target="_blank"} and hosted on [Github Pages](https://pages.github.com/){:target="_blank"}
 
