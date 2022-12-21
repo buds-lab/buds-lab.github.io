@@ -35,10 +35,10 @@ BUDS Lab is in the [Department of the Built Environment](https://cde.nus.edu.sg/
 ![Project Cozie Fitbit](buds-lab.github.io/cozie.png)
 [Project Cozie Fitbit](https://cozie.app/){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Cozie-App){:target="_blank"}) --  A [Fitbit-based](https://www.fitbit.com/sg/home){:target="_blank"} clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. This open-source platform is being developed for researchers anywhere in the world to use a methodological component.
 
-![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png)
-[Crowdsourcing Comfort: The Learning Trail](http://learningtrail.me/){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
 
 #### Past Projects
+<!-- ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png) -->
+* [Crowdsourcing Comfort: The Learning Trail](https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012141/pdf){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}.
 <!-- ![Building Data Genome Project](buds-lab.github.io/building_data_genome.png) -->
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} ([ResearchGate](http://bit.ly/2mWDM5r){:target="_blank"}) -- A collaboration with the [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} and an open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented. *Superseded by BDG2 in Sept. 2020*
 <!-- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} --  -->
