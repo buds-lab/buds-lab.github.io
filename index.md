@@ -74,7 +74,7 @@ Matias Quintana ([ResearchGate](https://www.researchgate.net/profile/Matias_Quin
 ![Bianca Picchetti](buds-lab.github.io/biancapicchetti.png)
 Bianca Picchetti ([ResearchGate](https://www.researchgate.net/profile/Bianca-Picchetti){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/biami/){:target="_blank"})([GitHub](https://github.com/ponybiam){:target="_blank"}) is a Data Scientist who leads several BUDS Lab analytics projects. She holds a Degree in Chemistry and is working on a Masters in Data Mining and Knowledge Discovery from the [University of Buenos Aires](http://www.uba.ar/internacionales/index.php?lang=en){:target="_blank"} in Argentina. Bianca leads the data analysis process for the [Building Data Genome 2 Project](https://github.com/buds-lab/building-data-genome-project-2){:target="_blank"} and the [GEPIII competition](https://www.kaggle.com/c/ashrae-energy-prediction){:target="_blank"}.
 
-![Charis Boey](buds-lab.github.io/charisboey.jpg) -->
+![Charis Boey](buds-lab.github.io/charisboey.jpg)
 Charis Boey ([ResearchGate](https://www.researchgate.net/profile/Charis-Boey){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/charisboey/){:target="_blank"})([ORCID](https://orcid.org/my-orcid?orcid=0000-0001-7027-0039){:target="_blank"})([Kaggle](https://www.kaggle.com/charisboey){:target="_blank"})([StackOverflow](https://stackoverflow.com/users/15380453/charis-boey){:target="_blank"}) is a Student Researcher at NUS in the BUDS Lab from the Project & Facilities Management program in the [NUS Dept. of the Built Environemtn](https://cde.nus.edu.sg/dbe/){:target="_blank"}. Vanessa assists with deployment and management of Project Cozie experiments. -->
 
 ![Charlene Tan](buds-lab.github.io/charlenetan.png)
