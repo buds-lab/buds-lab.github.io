@@ -23,6 +23,9 @@ BUDS Lab is in the [Department of the Built Environment](https://cde.nus.edu.sg/
 
 <!-- adrian's mixed mode project -->
 
+![Cool, Quiet City Competition](buds-lab.github.io/coolquietcitycompetition.png)
+[Cool, Quiet City Competition](https://www.kaggle.com/competitions/cool-quiet-city-competition/overview){:target="_blank"} -- This Kaggle Community competition includes the city-scale collection of 9,808 smartwatch-driven micro-survey responses that were collected alongside 2,659,764 physiological and environmental measurements from 98 people using the open-source Cozie Apple platform combined with geolocation-driven urban digital twin metrics from the [ Urbanity Python package](https://github.com/winstonyym/urbanity){:target="_blank"} . This competition is a city-scale digital twin collaboration with [Filip Biljecki](https://ual.sg){:target="_blank"} and [Adrian Chong](https://ideaslab.io){:target="_blank"} from NUS.
+
 ![Project HEATS](buds-lab.github.io/project_heats_logo.jpeg)
 [Project HEATS](https://www.linkedin.com/company/project-heats/){:target="_blank"} -- HEATS (Heat Exposure, AcTivity, and Sleep) is a three-year, multi-institutional project focused on improving sleep outcomes for people exposed to heat. Funded by the Singapore National Research Foundation, the project develops technological and behavioral solutions to minimize heat exposure for improved sleep using the Cozie Apple platform. It is a collaboration with [Prof. Stefano Schiavon](https://ced.berkeley.edu/ced/faculty-staff/stefano-schiavon){:target="_blank"} from UC Berkeley, [Assoc. Prof. Jason Lee](https://medicine.nus.edu.sg/phys/research/research-programs/human-potential/jason-kai-wei-lee/){:target="_blank"} at the NUS Dept. of Physiology, and [Dr. Tom Parkinson](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/thomas-parkinson.html){:target="_blank"} from the University of Sydney.
 
