@@ -42,25 +42,25 @@ BUDS Lab is in the [Department of the Built Environment](https://cde.nus.edu.sg/
 [SpaceMatch](https://www.spacematch.me/){:target="_blank"} -- SpaceMatch is the Uber&reg; of flexible workspaces -- an AI-enhanced spatial recommendation engine that matches building occupants to suitable workspaces based on comfort preferences. A live demonstration was implemented in the SDE4 building at NUS and is the focus of a team within the [NUS GRIP Program](https://nus.edu.sg/grip/){:target="_blank"} in early 2021.
 
 ![Project Cozie Fitbit](buds-lab.github.io/cozie.png)
-[Project Cozie Fitbit](https://cozie.app/){:target="_blank"} --  A [Fitbit-based](https://www.fitbit.com/sg/home){:target="_blank"} clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. This open-source platform is being developed for researchers anywhere in the world to use a methodological component.
+[Project Cozie Fitbit](https://cozie-fitbit.app/){:target="_blank"} --  A [Fitbit-based](https://www.fitbit.com/sg/home){:target="_blank"} clockface application that collects momentary assessments of thermal, aural, lighting, and other subjective comfort parameters. This open-source platform is being developed for researchers anywhere in the world to use a methodological component.
 
 
 #### Past Projects
 <!-- ![IoB](buds-lab.github.io/iob.png) -->
-* [The Internet-of-Buildings (IoB) Project](http://bit.ly/nus-pfm){:target="_blank"} -- The IoB project focuses on the technology and data convergence of the various researchers in the NUS Dept. of the Built Environment. This project is a collaboration with [Prof. Daniel Wong](https://www.sde.nus.edu.sg/bdg/wp-content/uploads/sites/5/2019/12/staff_bdgdan_082018.pdf){:target="_blank"} and it ties together several projects from within the department. *Completed in Dec. 2023*
+* [The Internet-of-Buildings (IoB) Project](http://bit.ly/nus-pfm){:target="_blank"} -- The IoB project focuses on the technology and data convergence of the various researchers in the NUS Dept. of the Built Environment. This project is a collaboration with Assoc. Prof. Daniel Wong and it ties together several projects from within the department. *Completed in Dec. 2023*
 <!-- ![Crowdsourcing Comfort: The Learning Trail](buds-lab.github.io/learningtrail_smaller.png) -->
-* [Crowdsourcing Comfort: The Learning Trail](https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012141/pdf){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new [Net Zero Energy SDE4 Building](https://www.youtube.com/watch?v=bjS6-hS0H8Y){:target="_blank"}. *Completed in Dec. 2021*
+* [Crowdsourcing Comfort: The Learning Trail](https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012141/pdf){:target="_blank"} -- An NUS Project in collaboration with the Dean's Office at the NUS School of Design and Environment. A progressive web application that collects subtle momentary thermal and environmental comfort assessments while occupants learn about the sustainability features of the new Net Zero Energy SDE4 Building. *Completed in Dec. 2021*
 <!-- ![Building Data Genome Project](buds-lab.github.io/building_data_genome.png) -->
 * [Building Data Genome Project](http://bit.ly/2mWsIW0){:target="_blank"} -- A collaboration with the [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} and an open data set of hundreds of non-residential buildings from around the world with various temporal data mining techniques implemented. *Superseded by BDG2 in Sept. 2020*
 <!-- Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.edu/){:target="_blank"} --  -->
 <!-- ![Project BuzzNET](buds-lab.github.io/BuzzNet2.png) -->
-* [Project BuzzNET](https://bitsvbytes.com/){:target="_blank"} -- Machine learning for mosquito detection and prevention led by former Fulbrighter Ananya Joshi. *Completed in June 2020*
+* Project BuzzNET -- Machine learning for mosquito detection and prevention led by former Fulbrighter Ananya Joshi. *Completed in June 2020*
 <!-- A Fulbright Student Project led by BUDS Lab Team member Ananya Joshi. She is designing a smart sensor network that can detect and prevent mosquito breeding grounds in urban areas. *Completed in June 2020* -->
 <!-- ![IoT at NUS](buds-lab.github.io/iotatnus.png) -->
 * IoT@NUS Project - Smart Devices and Energy Savings in Buildings -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. *Completed in Sept. 2019*
 <!-- * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance.  -->
 <!-- ![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png) -->
-<!-- * [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} -- A website for data science tutorials for building performance analysts.  *Not supported since Jan. 2019* -->
+* Data-Driven Buildings -- A website for data science tutorials for building performance analysts.  *Not supported since Jan. 2019*
 <!-- The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.  -->
 <!-- ![3for2](buds-lab.github.io/3for2.png) -->
 <!-- * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} *Completed in Oct. 2018* -->
