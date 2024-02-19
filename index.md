@@ -60,10 +60,10 @@ BUDS Lab is in the [Department of the Built Environment](https://cde.nus.edu.sg/
 * IoT@NUS Project - Smart Devices and Energy Savings in Buildings -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance. *Completed in Sept. 2019*
 <!-- * [IoT@NUS Project - Smart Devices and Energy Savings in Buildings](https://www.researchgate.net/project/IoTNUS-Smart-Devices-and-Energy-Savings-for-Buildings){:target="_blank"} -- An NUS Project in collaboration with an NUS Spin-off [SenSING](https://sensing.online/){:target="_blank"} and Assoc. Prof. Sekhar Kondepudi to develop Internet-of-Things (IoT) technology for building energy and indoor environmental performance.  -->
 <!-- ![Data-Driven Building](buds-lab.github.io/datadrivenbuilding.png) -->
-* [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} -- A website for data science tutorials for building performance analysts.  *Not supported since Jan. 2019*
+<!-- * [Data-Driven Buildings](http://bit.ly/2niv26Y){:target="_blank"} -- A website for data science tutorials for building performance analysts.  *Not supported since Jan. 2019* -->
 <!-- The goal of the site is to educate building industry professionals about modern, open-source data analysis techniques so we can stop being afraid of too much data.  -->
 <!-- ![3for2](buds-lab.github.io/3for2.png) -->
-* ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} *Completed in Oct. 2018*
+<!-- * ['3for2' Buildings: Achieving Material, Energy & Space Efficiency](http://bit.ly/2uexv4F){:target="_blank"} *Completed in Oct. 2018* -->
 
 
 ## People
