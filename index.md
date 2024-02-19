@@ -100,7 +100,7 @@ Wenhao Zhang ([Google Scholar](https://scholar.google.com/citations?&user=11jU6Y
 Yi Ting Teo ([ResearchGate](https://www.researchgate.net/profile/Yi-Ting-Teo){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/teo-yi-ting-61593496/){:target="_blank"}) is a Research Associate and Project Manager in the IDEAS Lab and is collaborator of the BUDS Lab. She is a recent graduate of the [Infrastructure & Project Management program at NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yi Ting manages key parts of a project focused on mixed-mode ventilation innovation.
 
 ![Yun Xuan Chua](buds-lab.github.io/yunxuan.png)
-Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua){:target="_blank"})([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_blank"}) is a Research Associate and Project Manager in the BUDS Lab. She is a recent graduate of the [Infrastructure & Project Management (IPM) program at NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yun Xuan leads the development of the Internet-of-Buildings portal and organizes experimental deployments.
+Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua){:target="_blank"})([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_blank"}) is a Research Associate, Master's by Research student, and Project Manager in the BUDS Lab. She is a recent graduate of the [Infrastructure & Project Management (IPM) program at NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yun Xuan leads the development of the Internet-of-Buildings portal and organizes experimental deployments.
 
 
 <!-- #### Affiliated Researchers -->
