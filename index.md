@@ -6,7 +6,7 @@ layout: default
 
 BUDS Lab is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans.
 
-Check us out on [Twitter](http://bit.ly/2nsunzs){:target="_blank"}, [GitHub](http://bit.ly/2mfifkR){:target="_blank"}, and [ResearchGate](https://www.researchgate.net/lab/Building-and-Urban-Data-Science-BUDS-Lab-Clayton-Miller){:target="_blank"}! Also, take a peek at our sibling labs in NUS with whom we collaborate closely - the [Urban Analytics Lab (UAL)](https://ual.sg){:target="_blank"} and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io){:target="_blank"}.
+Check us out on [LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"}, [GitHub](http://bit.ly/2mfifkR){:target="_blank"}, and [ResearchGate](https://www.researchgate.net/lab/Building-and-Urban-Data-Science-BUDS-Lab-Clayton-Miller){:target="_blank"}! Also, take a peek at our sibling labs in NUS with whom we collaborate closely - the [Urban Analytics Lab (UAL)](https://ual.sg){:target="_blank"} and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io){:target="_blank"}.
 <!-- and [subscribe to the email list](http://bit.ly/2mPhWAH){:target="_blank"} -->
 
 ![BUDS lab](buds-lab.github.io/nus.png)
