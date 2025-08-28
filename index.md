@@ -118,7 +118,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 #### Alumni
 
 <!-- ![Chun Fu](buds-lab.github.io/fuchun.png) -->
-* Chun Fu ([ResearchGate](https://www.researchgate.net/profile/Chun_Fu5){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/chun-fu/){:target="_blank"})([GitHub](https://github.com/PatrickFu0302/){:target="_blank"})([ORCID](https://orcid.org/0000-0002-6152-3257){:target="_blank"})([Kaggle](https://www.kaggle.com/patrick0302){:target="_blank"}) - Ph.D. Researcher at NUS in the BUDS Lab (2020-2024)
+* Chun Fu ([ResearchGate](https://www.researchgate.net/profile/Chun_Fu5){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/chun-fu/){:target="_blank"})([GitHub](https://github.com/PatrickFu0302/){:target="_blank"})([ORCID](https://orcid.org/0000-0002-6152-3257){:target="_blank"})([Kaggle](https://www.kaggle.com/patrick0302){:target="_blank"}) - Ph.D. Researcher at NUS (2020-2024)
 <!-- is a Ph.D. Researcher at NUS in the BUDS Lab. He holds a B.Sc. in Bioenvironmental Systems Engineering and a Master of Science (M.S.) in Sustainable Environment and Green Architecture from the [National Taiwan University](https://www.ntu.edu.tw/english/){:target="_blank"}. Chun is working on the analysis of large portfolios of buildings using machine learning techniques. -->
 
 <!-- ![Desai Wang](buds-lab.github.io/desai.jpg) -->
@@ -168,7 +168,8 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 * Francesco Salamone ([LinkedIn](https://www.linkedin.com/in/francesco-salamone-832b2a28/){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Francesco-Salamone){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [The University of Campania “Luigi Vanvitelli”](https://international.unicampania.it/index.php/en/){:target="_blank"} (2023) 
 <!-- - Now is a Researcher at the [National Research Council of Italy](https://www.cnr.it/en){:target="_blank"} -->
 
-* Dr. Sailin Zhong ([Website](https://www.sailinzhong.net){:target="_blank"})([Github](https://github.com/sailinz){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/sailin-zhong-53b379a8/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [University of Fribourg](https://www.unifr.ch/home/en/){:target="_blank"} and the [MIT Media Lab](https://www.media.mit.edu){:target="_blank"} (2023) - Now is a Post-Doctoral Scholar at the [ETH Zurich](https://ethz.ch/en.html){:target="_blank"}
+* Dr. Sailin Zhong ([Website](https://www.sailinzhong.net){:target="_blank"})([Github](https://github.com/sailinz){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/sailin-zhong-53b379a8/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [University of Fribourg](https://www.unifr.ch/home/en/){:target="_blank"} and the [MIT Media Lab](https://www.media.mit.edu){:target="_blank"} (2023) 
+<!-- - Now is a Post-Doctoral Scholar at the [ETH Zurich](https://ethz.ch/en.html){:target="_blank"} -->
 
 * Asst. Prof. Dr. Hussain Kazmi ([Website](https://www.kuleuven.be/wieiswie/en/person/00107015){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/hussain-kazmi/){:target="_blank"}) - Visiting Post-Doctoral Scholar at NUS from [KU Leuven](https://www.kuleuven.be/english/kuleuven){:target="_blank"} (2023) 
 <!-- - Now is an Asst. Professor at KU Leuven -->
@@ -280,7 +281,7 @@ Do any (or all) of these situations describe you?
 <!-- * You're very curious about other cultures and the concept of living and working in one of the **world's most diverse and culturally rich Asian cities**.  -->
 <!-- *You want to learn more about Asia.* -->
 
-If so, please ([contact Dr. Clayton via email](mailto:cmiller@smu.edu.sg)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points are desirable.
+If so, please ([contact Clayton via email](mailto:cmiller@smu.edu.sg)) to discuss upcoming projects. Research funding, scholarships, stipends, and grant affiliation are available. Previous projects that exemplify curiosity in any of the above points are desirable.
 
 <!-- **More detailed job descriptions for Ph.D. and Post-Doctoral positions to be posted shortly!**
  -->
