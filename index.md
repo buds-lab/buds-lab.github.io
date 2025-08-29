@@ -11,7 +11,7 @@ BUDS Lab is a scientific research group that leverages data sources from the bui
 
 ![BUDS lab](buds-lab.github.io/smu.jpg)
 
-As of Sept. 2025, the BUDS Lab has a new home in the [College of Integrative Studies](https://cis.smu.edu.sg/){:target="_blank"} at [Singapore Management University (SMU)](https://www.smu.edu.sg/){:target="_blank"}. From 2017-2025, We were previously at the [College of Design and Engineering](https://cde.nus.edu.sg/){:target="_blank"} in the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"} where several collaborators and group members remain. 
+As of Sept. 2025, the BUDS Lab has a new home in the [College of Integrative Studies](https://cis.smu.edu.sg/){:target="_blank"} at [Singapore Management University (SMU)](https://www.smu.edu.sg/){:target="_blank"}. From Jun. 2017 to Aug. 2025, we were at the [College of Design and Engineering](https://cde.nus.edu.sg/){:target="_blank"} in the [National University of Singapore (NUS)](https://nus.edu/2nsFXuj){:target="_blank"} where several collaborators and group members remain. 
 
 Check out other labs with whom we collaborate: [Urban Analytics Lab (UAL)](https://ual.sg){:target="_blank"}, [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io){:target="_blank"}, [Building Informatics and Operations Research (BIOR) Lab](https://maomaohu.net/){:target="_blank"}, and [City Syntax Lab](https://www.citysyntax.io/){:target="_blank"}.
 
