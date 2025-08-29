@@ -4,7 +4,7 @@ layout: default
 
 ![BUDS](buds-lab.github.io/budslab_banner.png)
 
-BUDS Lab is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans. Check us out on [LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"}, [GitHub](http://bit.ly/2mfifkR){:target="_blank"}, and [ResearchGate](https://www.researchgate.net/lab/Building-and-Urban-Data-Science-BUDS-Lab-Clayton-Miller){:target="_blank"}! 
+BUDS Lab is a scientific research group that leverages data sources from the built and urban environments to improve the energy efficiency and conservation, comfort, safety and satisfaction of humans. Check us out on [LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"}, [GitHub](https://github.com/buds-lab){:target="_blank"}, and [ResearchGate](https://www.researchgate.net/lab/Building-and-Urban-Data-Science-BUDS-Lab-Clayton-Miller){:target="_blank"}! 
 
 <!-- Also, take a peek at our sibling labs in NUS with whom we collaborate closely - the [Urban Analytics Lab (UAL)](https://ual.sg){:target="_blank"} and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io){:target="_blank"}. -->
 <!-- and [subscribe to the email list](http://bit.ly/2mPhWAH){:target="_blank"} -->
@@ -69,12 +69,13 @@ As of Sept. 2025, the BUDS Lab has a new home in the [College of Integrative Stu
 
 #### Lab Leader
 ![Prof. Dr. Clayton Miller](buds-lab.github.io/dr_clayton_miller.png)
-Dr. Clayton Miller ([ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"})([LinkedIn](http://bit.ly/2ncAV9h){:target="_blank"})([Scopus](https://www.scopus.com/authid/detail.uri?authorId=55907251600){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en){:target="_blank"})([ORCID](https://orcid.org/0000-0002-1186-4299){:target="_blank"})([GitHub](http://bit.ly/2nsvUoS){:target="_blank"})([Kaggle](https://www.kaggle.com/claytonmiller){:target="_blank"}) is an Associate Professor of Urban Informatics at SMU, Co-Founder and Scientific Advisor of [Spacematch Pte. Ltd.](https://www.spacematch.me){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Cozie-App){:target="_blank"}). He holds a Doctor of Sciences (Dr. sc. ETH Zurich) from the [ETH Z&uuml;rich](http://bit.ly/2nsD908){:target="_blank"} in Switzerland, an MSc. (Building) from the [NUS](https://nus.edu/2nsFXuj){:target="_blank"}, and a BSc./Masters of Architectural Engineering (MAE) from the [University of Nebraska - Lincoln (UNL)](http://bit.ly/2mzLhhS){:target="_blank"} in the USA. He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up, a former [Fulbright Scholar to Singapore](http://bit.ly/2mfcUKy){:target="_blank"} at NUS and a [Walter Scott Jr. Scholar](http://bit.ly/2mPcei3){:target="_blank"} at UNL. 
+Dr. Clayton Miller ([ResearchGate](https://www.researchgate.net/profile/Clayton-Miller-4){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/claytonmiller/){:target="_blank"})([Scopus](https://www.scopus.com/authid/detail.uri?authorId=55907251600){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en){:target="_blank"})([ORCID](https://orcid.org/0000-0002-1186-4299){:target="_blank"})([GitHub](https://github.com/cmiller8){:target="_blank"})([Kaggle](https://www.kaggle.com/claytonmiller){:target="_blank"}) is an Associate Professor of Urban Informatics at SMU, Fellow at the [SMU Urban Institute]{https://urban.smu.edu.sg}{:target="_blank"}, and Co-Founder and Scientific Advisor of [Spacematch Pte. Ltd.](https://www.spacematch.me){:target="_blank"} ([ResearchGate](https://www.researchgate.net/project/Cozie-App){:target="_blank"}). He holds a Doctor of Sciences (Dr. sc. ETH Zurich) from the [ETH Z&uuml;rich](https://ethz.ch/de.html){:target="_blank"} in Switzerland, an MSc. (Building) from [NUS](https://nus.edu/2nsFXuj){:target="_blank"}, and a BSc./Masters of Architectural Engineering (MAE) from the [University of Nebraska - Lincoln (UNL)](https://www.unl.edu){:target="_blank"}. He is a former Fellow at the [Institute of Technology in Architecture at ETH Zurich]{https://ita.arch.ethz.ch}{:target="_blank"}, [Fulbright Scholar (2009) to Singapore](https://us.fulbrightonline.org){:target="_blank"}, and a [Walter Scott Jr. Scholar](https://www.unomaha.edu/scott-scholars/index.php){:target="_blank"}. 
 <!-- . He was formerly a researcher at the [Future Cities Lab](http://bit.ly/2mWFJih){:target="_blank"} and a fellow at the [Institute of Technology in Architecture](http://www.ita.arch.ethz.ch/){:target="_blank"} at the [ETH Z&uuml;rich](https://www.ethz.ch/
 en.html){:target="_blank"}. Dr. Miller is -->
 <!-- the [Co-Leader of Theme D - Data Analytics at the UC Berkeley SinBerBEST2 Lab](https://sinberbest.berkeley.edu/){:target="_blank"} -->
 <!-- ([Publons](https://publons.com/author/1405785/clayton-miller#profile){:target="_blank"}) -->
 <!-- , and a [Co-Leader of Subtask 4 of the IEA Annex 79 Occupant-Centric Building Design and Operation](http://annex79.iea-ebc.org/){:target="_blank"} -->
+<!-- He is the former CTO of Optiras Pte. Ltd, a [Singapore NRF-funded](https://www.nrf.gov.sg/){:target="_blank"} start-up, -->
 
 
 #### Researchers/Visitors/Collaborators
@@ -101,7 +102,7 @@ Dr. Mario Frei ([ResearchGate](https://www.researchgate.net/profile/Mario_Frei){
 
 
 ![Wenhao Zhang](buds-lab.github.io/wenhao.png)
-Wenhao Zhang ([Website](https://wenha0zhang.github.io/){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?&user=11jU6YIAAAAJ&view_op=list_works&gmla=AJ1KiT15x5zG5pwAi9ltAHo9xzvBLUt1nbL4_fvxGavo9erbICjtAB8INOcjJlwxJXgDYfPew7f24Dqt4LMuwEkA-3nX3oxYbttcTgCuugg){:target="_blank"})([Github](https://github.com/WENHA0ZHANG){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Wenhao-Zhang-55){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/wenhao-zhang-861490257/){:target="_blank"}) is a Ph.D. Researcher at NUS focused on the HEATS Project. He is under the official supervision of Dr. Adrian Chong in the [IDEAS Lab](https://ideaslab.io){:target="_blank"}, but is still a major part of the BUDS team. He holds a Bachelor of Engineering in Architectural Environment Engineering at the [University of Nottingham, Ningbo](https://www.nottingham.edu.cn/en/index.aspx){:target="_blank"} and a Master of Engineering from the [University College London](https://www.ucl.ac.uk/){:target="_blank"}. Wenhao is working on the application of reinforcement learning towards the improvement of sleep environments.
+Wenhao Zhang ([Website](https://wenha0zhang.github.io/){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?&user=11jU6YIAAAAJ&view_op=list_works&gmla=AJ1KiT15x5zG5pwAi9ltAHo9xzvBLUt1nbL4_fvxGavo9erbICjtAB8INOcjJlwxJXgDYfPew7f24Dqt4LMuwEkA-3nX3oxYbttcTgCuugg){:target="_blank"})([Github](https://github.com/WENHA0ZHANG){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Wenhao-Zhang-55){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/wenhao-zhang-861490257/){:target="_blank"}) is a Ph.D. Researcher at NUS focused on the HEATS Project. He is under the official supervision of Dr. Adrian Chong in the [IDEAS Lab](https://ideaslab.io){:target="_blank"}, but is still a major part of the BUDS team. He holds a Bachelor of Engineering in Architectural Environment Engineering at the [University of Nottingham, Ningbo](https://www.nottingham.edu.cn/en/index.aspx){:target="_blank"} and a Master of Engineering from [University College London](https://www.ucl.ac.uk/){:target="_blank"}. Wenhao is working on the application of reinforcement learning towards the improvement of sleep environments.
 
 ![Yun Xuan Chua](buds-lab.github.io/yunxuan.png)
 Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua){:target="_blank"})([LinkedIn](http://www.linkedin.com/in/chuayunxuan/){:target="_blank"}) is a Research Associate and Project Manager in NUS focused on the HEATS Project. She is a graduate of the [Infrastructure & Project Management (IPM) and Master's of Science programs at NUS](https://cde.nus.edu.sg/dbe/introduction-1-1/){:target="_blank"}. Yun Xuan is a co-manager of the [Cozie Apple Watch project](https://cozie-apple.app){:target="_blank"} and is an expert in human subject research project deployments.
@@ -120,7 +121,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 * Xue Cui ([LinkedIn](https://www.linkedin.com/in/xue-cui-b5722b302/){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Xue-Cui-3){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=MDrx0AUAAAAJ&hl=en){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (2025) 
 <!-- - Now is a completing her Ph.D. at HK PolyU -->
 
-* Prof. Marco Pruckner ([Website](https://www.informatik.uni-wuerzburg.de/modsim/team/pruckner/){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/marco-pruckner-09315510a/){:target="_blank"}) - Visitor at NUS while a Professor at the [University of Würzburg](https://www.uni-wuerzburg.de/en/){:target="_blank"} (2025)
+* Prof. Dr. Marco Pruckner ([Website](https://www.informatik.uni-wuerzburg.de/modsim/team/pruckner/){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/marco-pruckner-09315510a/){:target="_blank"}) - Visitor at NUS while a Professor at the [University of Würzburg](https://www.uni-wuerzburg.de/en/){:target="_blank"} (2025)
 
 * Dr. Riccardo Talami ([ResearchGate](https://www.researchgate.net/profile/Riccardo-Talami){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/riccardo-talami12/){:target="_blank"})([Website](https://riccardotalami.github.io/rt/){:target="_blank"})([Google Scholar](https://scholar.google.com/citations?user=EmFyzowAAAAJ&hl=en){:target="_blank"}) - Post-Doctoral Researcher at NUS as part of the [Future Resilient Systems (FRS) Lab](https://frs.ethz.ch){:target="_blank"} (2024-2025) 
 
@@ -133,7 +134,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 <!-- is a Visiting Researcher at NUS as part of her Ph.D. at the [Department of Electric Energy at NTNU](https://www.ntnu.edu/iel){:target="_blank"} under the supervision of [Assoc. Prof. Jayaprakash Rajasekharan](https://www.ntnu.edu/employees/jayaprakash.rajasekharan){:target="_blank"}. Synne holds a M.Sc. of Energy and Environmental Engineering from the NTNU and is also Researcher at [SINTEF](https://www.sintef.no/en/){:target="_blank"}. Her work is part of the [COFACTOR Project](https://www.sintef.no/en/projects/2021/cofactor/){:target="_blank"} that focuses on improving grid planning and the design of buildings. -->
 
 <!-- ![Chun Fu](buds-lab.github.io/fuchun.png) -->
-* Chun Fu ([ResearchGate](https://www.researchgate.net/profile/Chun_Fu5){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/chun-fu/){:target="_blank"})([GitHub](https://github.com/PatrickFu0302/){:target="_blank"})([ORCID](https://orcid.org/0000-0002-6152-3257){:target="_blank"})([Kaggle](https://www.kaggle.com/patrick0302){:target="_blank"}) - Ph.D. Researcher at NUS (2020-2024)
+* Dr. Chun Fu ([ResearchGate](https://www.researchgate.net/profile/Chun_Fu5){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/chun-fu/){:target="_blank"})([GitHub](https://github.com/PatrickFu0302/){:target="_blank"})([ORCID](https://orcid.org/0000-0002-6152-3257){:target="_blank"})([Kaggle](https://www.kaggle.com/patrick0302){:target="_blank"}) - Ph.D. Researcher at NUS (2020-2024)
 <!-- is a Ph.D. Researcher at NUS in the BUDS Lab. He holds a B.Sc. in Bioenvironmental Systems Engineering and a Master of Science (M.S.) in Sustainable Environment and Green Architecture from the [National Taiwan University](https://www.ntu.edu.tw/english/){:target="_blank"}. Chun is working on the analysis of large portfolios of buildings using machine learning techniques. -->
 
 <!-- ![Felix Rehmann](buds-lab.github.io/felix.png) -->
@@ -175,10 +176,10 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 * Francesco Salamone ([LinkedIn](https://www.linkedin.com/in/francesco-salamone-832b2a28/){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Francesco-Salamone){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [The University of Campania “Luigi Vanvitelli”](https://international.unicampania.it/index.php/en/){:target="_blank"} (2023) 
 <!-- - Now is a Researcher at the [National Research Council of Italy](https://www.cnr.it/en){:target="_blank"} -->
 
-* Dr. Sailin Zhong ([Website](https://www.sailinzhong.net){:target="_blank"})([Github](https://github.com/sailinz){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/sailin-zhong-53b379a8/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [University of Fribourg](https://www.unifr.ch/home/en/){:target="_blank"} and the [MIT Media Lab](https://www.media.mit.edu){:target="_blank"} (2023) 
+* Sailin Zhong ([Website](https://www.sailinzhong.net){:target="_blank"})([Github](https://github.com/sailinz){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/sailin-zhong-53b379a8/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [University of Fribourg](https://www.unifr.ch/home/en/){:target="_blank"} and the [MIT Media Lab](https://www.media.mit.edu){:target="_blank"} (2023) 
 <!-- - Now is a Post-Doctoral Scholar at the [ETH Zurich](https://ethz.ch/en.html){:target="_blank"} -->
 
-* Asst. Prof. Dr. Hussain Kazmi ([Website](https://www.kuleuven.be/wieiswie/en/person/00107015){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/hussain-kazmi/){:target="_blank"}) - Visiting Post-Doctoral Scholar at NUS from [KU Leuven](https://www.kuleuven.be/english/kuleuven){:target="_blank"} (2023) 
+* Dr. Hussain Kazmi ([Website](https://www.kuleuven.be/wieiswie/en/person/00107015){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/hussain-kazmi/){:target="_blank"}) - Visiting Post-Doctoral Scholar at NUS from [KU Leuven](https://www.kuleuven.be/english/kuleuven){:target="_blank"} (2023) 
 <!-- - Now is an Asst. Professor at KU Leuven -->
 <!-- ![Charlene Tan](buds-lab.github.io/charlenetan.png) -->
 
@@ -215,7 +216,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 * Xiaoyu Jin ([LinkedIn](https://www.linkedin.com/in/xiaoyu-jin-279bab223/){:target="_blank"})([ResearchGate](https://www.researchgate.net/profile/Xiaoyu-Jin-8){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (2022) 
 <!-- - Now is a completing her Ph.D. at HK PolyU -->
 
-* Dr. Filippo Vittori ([LinkedIn](https://www.linkedin.com/in/filippo-vittori-941037153/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [Universita degli Studi di Perugia](https://www.unipg.it/en/){:target="_blank"} (2022) 
+* Filippo Vittori ([LinkedIn](https://www.linkedin.com/in/filippo-vittori-941037153/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from the [Universita degli Studi di Perugia](https://www.unipg.it/en/){:target="_blank"} (2022) 
 <!-- - Now is a Senior Implementation Consultant at [Autodesk](https://www.autodesk.com/){:target="_blank"} -->
 
 * Pierre Garreau ([LinkedIn](https://www.linkedin.com/in/pierre-garreau-76510018a/){:target="_blank"}) - Visiting Student Researcher at NUS from [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/){:target="_blank"} (2022) 
@@ -227,7 +228,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 <!-- is a Ph.D. Researcher at NUS in the BUDS Lab and is co-supervised by [Dr. Adrian Chong](http://blog.nus.edu.sg/adrianchong/about/){:target="_blank"}. He holds a M.Sc in Architectural Engineering and B.Sc in Architecture from [Mansoura University](http://www.mans.edu.eg/en){:target="_blank"} in Egypt. Mahmoud is an expert in building information modelling (BIM) and the development of tools and machine learning techniques to tie the virtual and measured world together. -->
 <!-- ![Irvin Tang](buds-lab.github.io/irvin1.png) -->
 
-* Dr. Julien Leprince ([LinkedIn](https://www.linkedin.com/in/julien-leprince/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/){:target="_blank"} (2022) 
+* Julien Leprince ([LinkedIn](https://www.linkedin.com/in/julien-leprince/){:target="_blank"}) - Visiting Ph.D. Researcher at NUS from [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/){:target="_blank"} (2022) 
 <!-- - Now is a Data Scientist at [beebop.ai](https://www.beebop.ai/){:target="_blank"} -->
 
 * Irvin Tang ([ResearchGate](https://www.researchgate.net/profile/Irvin_Tang){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/irvintang/){:target="_blank"})([GitHub](https://github.com/irrhuh){:target="_blank"}) - Ph.D and Master's Student at NUS (2018-2022) 
@@ -243,7 +244,7 @@ Yun Xuan Chua ([ResearchGate](https://www.researchgate.net/profile/Yun-Xuan-Chua
 <!-- ![Dr. Prageeth Jayathissa](buds-lab.github.io/pjjayasthissa.jpeg) -->
 <!-- ![Jonathan Roth](buds-lab.github.io/jonathan.png) -->
 
-* Dr. Jonathan Roth ([ResearchGate](https://www.researchgate.net/profile/Jonathan_Roth10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jonathanmroth/){:target="_blank"})([GitHub](https://github.com/jmr385){:target="_blank"}) - Research Associate at NUS (Affiliated with the [Stanford Urban Informatics Lab](https://www.uil.stanford.edu/){:target="_blank"}) (2019-2020) 
+* Jonathan Roth ([ResearchGate](https://www.researchgate.net/profile/Jonathan_Roth10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/jonathanmroth/){:target="_blank"})([GitHub](https://github.com/jmr385){:target="_blank"}) - Research Associate at NUS (Affiliated with the [Stanford Urban Informatics Lab](https://www.uil.stanford.edu/){:target="_blank"}) (2019-2020) 
 <!-- - Now is an Energy and Utilities Consultant at [PA Consulting](https://www.paconsulting.com/){:target="_blank"} -->
 <!-- is an Assistant Researcher at NUS in the BUDS Lab. He is visiting from the [Stanford Urban Informatics Lab](https://www.uil.stanford.edu/){:target="_blank"} that is based in the [Civil and Environmental Engineering Department](https://cee.stanford.edu/){:target="_blank"} at [Stanford University](https://www.stanford.edu){:target="_blank"}. He is working on his Ph.D. degree at Stanford and has a B.S. in Civil Engineering from [Cornell University](https://www.cee.cornell.edu/cee){:target="_blank"}. Jon is an expert in analysis of building meter data at the urban-scale and will be focused on better modelling of commercial and residential buildings. -->
 <!-- ![Ananya Joshi](buds-lab.github.io/ananya.png) -->
@@ -273,7 +274,7 @@ Tapeesh Sood ([ResearchGate](https://www.researchgate.net/profile/Tapeesh_Sood){
 Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"}) is a Research Associate and Ph.D. candidate at NUS in the BUDS Lab. He holds a [MSc. in Machine Learning](https://ee.kaist.ac.kr/?language=en){:target="_blank"} from the Korea Advanced Institute of Science and Technology (KAIST), a [MSc. in Environmental Engineering and Sustainable Development](http://www.imperial.ac.uk/civil-engineering/prospective-students/postgraduate-taught-admissions/environmental-engineering-cluster/msc-environmental-engineering/){:target="_blank"} from Imperial College London, and a dual Bachelor's Degree in Architectural Engineering from the [Illinois Institute of Technology](https://engineering.iit.edu/programs/undergraduate/bachelor-science-architectural-engineering){:target="_blank"} and [Hanyang University](http://www.hanyang.ac.kr/web/eng/e1012){:target="_blank"}. He has worked as a research manager at Hyundai Engineering for three years before coming to NUS and is an expert in machine learning for the built environment and IoT analytics. -->
 
 ## Publications
-All current and in-progress publications found on [ResearchGate](http://bit.ly/2nirRMQ){:target="_blank"} and [Google Scholar](http://bit.ly/2mzJM35){:target="_blank"}
+Current and in-progress publications found on [ResearchGate](https://www.researchgate.net/profile/Clayton-Miller-4){:target="_blank"} or [Google Scholar](https://scholar.google.com/citations?user=akL857IAAAAJ&hl=en){:target="_blank"}
 
 ## Join the BUDS Lab!
 Do any (or all) of these situations describe you?
@@ -292,7 +293,7 @@ If so, please ([contact Clayton via email](mailto:cmiller@smu.edu.sg)) to discus
 
 <!-- **More detailed job descriptions for Ph.D. and Post-Doctoral positions to be posted shortly!**
  -->
-[Leadership Lessons from a Dancing Guy](http://bit.ly/2mzHS2I){:target="_blank"}
+[Leadership Lessons from a Dancing Guy](https://sive.rs/dancingguy){:target="_blank"}
 
 [Everything is a Remix](https://youtu.be/MZ2GuvUWaP8){:target="_blank"}
 
