@@ -272,6 +272,8 @@ Dr. Jayashree Chadalawada ([ResearchGate](https://www.researchgate.net/profile/J
 <!-- ![Tapeesh Sood](buds-lab.github.io/tapeesh.png)
 Tapeesh Sood ([ResearchGate](https://www.researchgate.net/profile/Tapeesh_Sood){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/tapeeshsood/){:target="_blank"})([GitHub](https://github.com/tapeesh){:target="_blank"}) is a Research Associate at NUS in the BUDS Lab. He holds a MSc. in Integrated Sustainable Design from the [NUS School of Design & Environment](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/coursework-programmes/degree-requirements/master-of-science-in-integrated-sustainable-design/){:target="_blank"} and Bachelor's of Architecture from [Gujarat University](http://www.gujaratuniversity.ac.in/web/){:target="_blank"} in India. Tapeesh is a 3D expert and is working on prototypes of spatio-temporal data visualization and a project to collect personal IEQ data in clever ways. -->
 
+* Kairat Talantbekov ([LinkedIn](https://www.linkedin.com/in/kairat-talantbekov/){:target="_blank"})([GitHub](https://github.com/talantbekov123){:target="_blank"})  -  Coding Consultant (2018) 
+
 * Dongkyu Lee ([ResearchGate](https://www.researchgate.net/profile/Dongkyu_Lee10){:target="_blank"})([LinkedIn](https://www.linkedin.com/in/dongkyu-lee-5ba66764/){:target="_blank"})([GitHub](https://github.com/Kyu2){:target="_blank"})  -  Research Assistant at NUS (2018) 
 <!-- - Senior Researcher at LG Electronics --> 
 <!-- ![Dongkyu Lee](buds-lab.github.io/dongkyu.png)
